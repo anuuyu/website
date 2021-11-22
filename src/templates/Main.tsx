@@ -1,8 +1,9 @@
-import { ReactNode } from 'react';
+import React, { ReactNode } from 'react';
 
 import Link from 'next/link';
 
-import { AppConfig } from '../utils/AppConfig';
+import { Navbar } from '../navigation/Navbar';
+import { Config } from '../utils/Config';
 
 type IMainProps = {
   meta: ReactNode;
@@ -10,53 +11,51 @@ type IMainProps = {
 };
 
 const Main = (props: IMainProps) => (
-  <div className="antialiased w-full text-gray-700 px-1">
+  <div className="antialiased w-full text-gray-700 px-3 md:px-0">
     {props.meta}
 
     <div className="max-w-screen-md mx-auto">
       <div className="border-b border-gray-300">
         <div className="pt-16 pb-8">
-          <div className="font-bold text-3xl text-gray-900">
-            {AppConfig.title}
-          </div>
-          <div className="text-xl">{AppConfig.description}</div>
+          <div className="font-semibold text-3xl text-gray-900">{Config.title}</div>
+          <div className="text-xl">{Config.description}</div>
         </div>
         <div>
-          <ul className="flex flex-wrap text-xl">
+          <Navbar>
             <li className="mr-6">
               <Link href="/">
-                <a className="text-gray-700 border-none hover:text-gray-900">
-                  Home
-                </a>
+                <a>Home</a>
               </Link>
             </li>
             <li className="mr-6">
               <Link href="/about/">
-                <a className="text-gray-700 border-none hover:text-gray-900">
-                  About
-                </a>
+                <a>About</a>
               </Link>
             </li>
             <li className="mr-6">
-              <a
-                className="text-gray-700 border-none hover:text-gray-900"
-                href="https://github.com/ixartz/Next-js-Boilerplate"
-              >
-                GitHub
-              </a>
+              <a href="https://github.com/ixartz/Next-js-Blog-Boilerplate">GitHub</a>
             </li>
-          </ul>
+          </Navbar>
         </div>
       </div>
 
-      <div className="py-5 text-xl content">{props.children}</div>
+      <div className="text-xl py-5">{props.children}</div>
 
       <div className="border-t border-gray-300 text-center py-8 text-sm">
-        © Copyright {new Date().getFullYear()} {AppConfig.title}. Powered with{' '}
+        © Copyright
+        {' '}
+        {new Date().getFullYear()}
+        {' '}
+        {Config.title}
+        . Powered with
+        {' '}
         <span role="img" aria-label="Love">
           ♥
-        </span>{' '}
-        by <a href="https://creativedesignsguru.com">CreativeDesignsGuru</a>
+        </span>
+        {' '}
+        by
+        {' '}
+        <a href="https://creativedesignsguru.com">CreativeDesignsGuru</a>
         {/*
          * PLEASE READ THIS SECTION
          * We'll really appreciate if you could have a link to our website
