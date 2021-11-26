@@ -1,5 +1,5 @@
 ---
-name: yus
+name: yu
 avatar: /static/images/avatar.png
 occupation: developer who design
 company: Indonesia
