@@ -12,4 +12,4 @@ github: https://github.com/yuzdnt
 hi, saya yu.
 seorang developer dan designer.
 
-misi saya adalah membuat website secepat jentikan jari, dengan tampilan menarik dan memberikan pengalaman pengguna yang hebat. :-)
+saya membuat website berjalan secepat jentikan jari, dengan tampilan menarik dan pengalaman pengguna yang hebat. :-)
