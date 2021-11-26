@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com
 github: https://github.com/yuzdnt
 ---
 
-hi, saya yus.
+hi, saya yu.
+seorang developer dan designer.
 
-saya membuat website yang cepat.
+misi saya adalah membuat website secepat jentikan jari, dengan tampilan menarik dan memberikan pengalaman pengguna yang hebat. :-)
