@@ -13,3 +13,5 @@ hi, saya yu.
 seorang developer dan designer.
 
 saya membuat website berjalan secepat jentikan jari, dengan tampilan menarik dan pengalaman pengguna yang hebat. :-)
+
+blog ini berisi catatan hasil belajar ku.
