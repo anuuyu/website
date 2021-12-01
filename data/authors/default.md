@@ -9,8 +9,9 @@ linkedin: https://www.linkedin.com
 github: https://github.com/yuzdnt
 ---
 
-hi, saya yu.
-seorang developer dan designer.
+hi, saya yu. developer yang juga mendesain.
+
+saya belajar banyak hal, terutama yang berkaitan dengan web development, baik itu "front-end" maupun "back-end".
 
 saya membuat website berjalan secepat jentikan jari, dengan tampilan menarik dan pengalaman pengguna yang hebat. :-)
 
