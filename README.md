@@ -30,3 +30,9 @@ npm run dev
 ```
 
 Your new site will be up at http://localhost:3000/
+
+## goal of this blog
+> terinspirasi dari `https://github.com/hilmanski/onebite-dev`
+
+- improve my english language skill
+- [learn in public](https://www.swyx.io/learn-in-public/)
