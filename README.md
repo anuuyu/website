@@ -36,3 +36,5 @@ Your new site will be up at http://localhost:3000/
 
 - improve my english language skill
 - [learn in public](https://www.swyx.io/learn-in-public/)
+
+update finish pertukaran
