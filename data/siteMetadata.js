@@ -1,11 +1,11 @@
 const siteMetadata = {
-  title: 'de<signer+veloper/>',
+  title: 'de(signer+veloper)',
   author: 'yu',
   headerTitle: 'de<signer+veloper/>',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://anuu.vercel.app',
+  siteUrl: 'https://anuu.me',
   siteRepo: 'https://github.com/anuuyu/anuu',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/yu.png',
