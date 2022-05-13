@@ -8,4 +8,4 @@ twitter: https://twitter.com/anuuyu
 github: https://github.com/anuuyu
 ---
 
-Hi, aku yu. seorang designer dan juga developer website. 
+halaman ini adalah halaman uses
