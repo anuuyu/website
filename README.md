@@ -7,21 +7,14 @@
 - TailwindCSS
 - vercel
 
+## directory tree
+
 ```
 ├── components/
-│	├── analytics
-│	│   ├── GoogleAnalytics.js
-│	│   ├── index.js
-│	│   ├── Plausible.js
-│	│   ├── SimpleAnalytics.js
-│	│   └── Umami.js
+│	├── analytics/
 │	├── Card.js
 │	├── ClientReload.js
-│	├── comments
-│	│   ├── Disqus.js
-│	│   ├── Giscus.js
-│	│   ├── index.js
-│	│   └── Utterances.js
+│	├── comments/
 │	├── Footer.js
 │	├── Image.js
 │	├── LayoutWrapper.js
@@ -35,14 +28,7 @@
 │	├── ScrollTopAndComment.js
 │	├── SectionContainer.js
 │	├── SEO.js
-│	├── social-icons
-│	│   ├── facebook.svg
-│	│   ├── github.svg
-│	│   ├── index.js
-│	│   ├── linkedin.svg
-│	│   ├── mail.svg
-│	│   ├── twitter.svg
-│	│   └── youtube.svg
+│	├── social-icons/
 │	├── Tag.js
 │	├── ThemeSwitch.js
 │	└── TOCInline.js
@@ -50,11 +36,8 @@
 │	├── prism.css
 │	└── tailwind.css
 ├── data/
-│	├── authors
-│	│   └── default.md
-│	├── blog
-│	│   ├── introducing-tailwind-nextjs-starter-blog.mdx
-│	│   └── new-features-in-v1.mdx
+│	├── authors/
+│	├── blog/
 │	├── courseData.js
 │	├── headerNavLinks.js
 │	├── learnData.js
@@ -62,17 +45,9 @@
 │	├── projectsData.js
 │	├── references-data.bib
 │	├── siteMetadata.js
-│	├── snippets
-│	│   ├── snippet1.mdx
-│	│   ├── snippet2.mdx
-│	│   ├── snippet3.mdx
-│	│   └── snippet.mdx
+│	├── snippets/
 │	├── snippetsData.js
-│	└── static
-│		├── terminal-setup.mdx
-│		├── ubuntu-setup.mdx
-│		├── uses.mdx
-│		└── vsc-setup.mdx
+│	└── static/
 ├── layouts/
 │	├── AuthorLayout.js
 │	├── ListLayout.js
@@ -87,7 +62,7 @@
 │	├── remark-img-to-jsx.js
 │	├── remark-toc-headings.js
 │	├── tags.js
-│	└── utils
+│	└── utils/
 │		├── files.js
 │		├── formatDate.js
 │		├── htmlEscaper.js
@@ -95,16 +70,10 @@
 ├── pages/
 │	├── 404.js
 │	├── about.js
-│	├── api
-│	│   ├── buttondown.js
-│	│   ├── convertkit.js
-│	│   ├── emailoctopus.js
-│	│   ├── klaviyo.js
-│	│   ├── mailchimp.js
-│	│   └── revue.js
+│	├── api/
 │	├── _app.js
 │	├── blog
-│	│   ├── page
+│	│   ├── page/
 │	│   │   └── [page].js
 │	│   └── [...slug].js
 │	├── blog.js
@@ -116,43 +85,15 @@
 │	├── snippets
 │	│   └── [...slug].js
 │	├── snippets.js
-│	└── tags
+│	└── tags/
 │		└── [tag].js
 ├── public/
 │	├── feed.xml
 │	├── sitemap.xml
-│	├── static
-│	│   ├── favicons
-│	│   │   ├── android-chrome-96x96.png
-│	│   │   ├── apple-touch-icon.png
-│	│   │   ├── browserconfig.xml
-│	│   │   ├── favicon-16x16.png
-│	│   │   ├── favicon-32x32.png
-│	│   │   ├── favicon.ico
-│	│   │   ├── mstile-150x150.png
-│	│   │   ├── safari-pinned-tab.svg
-│	│   │   └── site.webmanifest
-│	│   └── images
-│	│       ├── canada
-│	│       │   ├── lake.jpg
-│	│       │   ├── maple.jpg
-│	│       │   ├── mountains.jpg
-│	│       │   └── toronto.jpg
-│	│       ├── google.png
-│	│       ├── logo.png
-│	│       ├── ocean.jpeg
-│	│       ├── ossmii.png
-│	│       ├── sparrowhawk-avatar.jpg
-│	│       ├── time-machine.jpg
-│	│       ├── twitter-card.png
-│	│       └── yu.png
+│	├── static/
+│	│   ├── favicons/
+│	│   └── images/
 │	└── tags
-│		├── guide
-│		│   └── feed.xml
-│		├── next-js
-│		│   └── feed.xml
-│		└── tailwind
-│			└── feed.xml
 ├── scripts/
 │	├── compose.js
 │	├── generate-sitemap.js
