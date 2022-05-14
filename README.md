@@ -45,8 +45,8 @@
 │	├── projectsData.js
 │	├── references-data.bib
 │	├── siteMetadata.js
-│	├── snippets/
-│	├── snippetsData.js
+│	├── notes/
+│	├── notesData.js
 │	└── static/
 ├── layouts/
 │	├── AuthorLayout.js
@@ -82,9 +82,9 @@
 │	├── learn.js
 │	├── projects.js
 │	├── [...slug].js
-│	├── snippets
+│	├── notes
 │	│   └── [...slug].js
-│	├── snippets.js
+│	├── notes.js
 │	└── tags/
 │		└── [tag].js
 ├── public/
