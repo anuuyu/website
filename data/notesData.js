@@ -1,27 +1,15 @@
 const notesData = [
   {
-    title: 'Snippet',
-    description: `daftar open source software yang dibuat orang indonesia.`,
+    title: 'url SVG background CSS',
+    description: `cara memakai SVG sebagai url background CSS.`,
     imgSrc: '/static/images/ossmii.png',
-    href: '/notes/snippet',
+    href: '/notes/svg-css-background',
   },
   {
-    title: 'Snippet',
-    description: `daftar open source software yang dibuat orang indonesia.`,
+    title: 'ToC',
+    description: `kode memasang Table of Content.`,
     imgSrc: '/static/images/ossmii.png',
-    href: '/notes/snippet1',
-  },
-  {
-    title: 'Snippet',
-    description: `daftar open source software yang dibuat orang indonesia.`,
-    imgSrc: '/static/images/ossmii.png',
-    href: '/notes/snippet2',
-  },
-  {
-    title: 'Snippet',
-    description: `daftar open source software yang dibuat orang indonesia.`,
-    imgSrc: '/static/images/ossmii.png',
-    href: '/notes/snippet3',
+    href: '/notes/toc',
   },
 ]
 
