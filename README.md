@@ -25,6 +25,7 @@
 │	├── PageTitle.js
 │	├── Pagination.js
 │	├── Pre.js
+│	├── ScrollTop.js
 │	├── ScrollTopAndComment.js
 │	├── SectionContainer.js
 │	├── SEO.js
