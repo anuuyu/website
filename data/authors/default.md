@@ -1,6 +1,6 @@
 ---
 name: yu
-avatar: /static/images/bio/yu.png
+avatar: /static/images/asset/yu.png
 occupation: designer + developer
 company: anuu
 email: yu@anuu.me

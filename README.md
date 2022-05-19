@@ -1,4 +1,4 @@
-![tailwind-nextjs-banner](/public/static/images/bio/twitter-card.png)
+![tailwind-nextjs-banner](/public/static/images/asset/twitter-card.png)
 
 # my portfolio
 ## build with:

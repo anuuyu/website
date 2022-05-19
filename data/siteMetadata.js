@@ -7,9 +7,9 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://anuu.me',
   siteRepo: 'https://github.com/anuuyu/anuu',
-  siteLogo: '/static/images/bio/logo.png',
-  image: '/static/images/bio/yu.png',
-  socialBanner: '/static/images/bio/twitter-card.png',
+  siteLogo: '/static/images/asset/logo.png',
+  image: '/static/images/asset/yu.png',
+  socialBanner: '/static/images/asset/twitter-card.png',
   email: 'yu@anuu.me',
   github: 'https://github.com/anuuyu',
   twitter: 'https://twitter.com/anuuyu',
