@@ -4,7 +4,6 @@ date: 2022-05-19
 tags: ['notes']
 draft: false
 summary: 'artikel ini tentang catatan perintah menggunakan terminal'
-layout: StaticLayout
 ---
 
 ## command word
