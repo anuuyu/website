@@ -41,6 +41,7 @@ const genFrontMatter = (answers) => {
   images: []
   layout: ${answers.layout}
   canonicalUrl: ${answers.canonicalUrl}
+  postId: '${answers.postId}'
   `
 
   if (answers.authors.length > 0) {
@@ -96,6 +97,11 @@ inquirer
     {
       name: 'canonicalUrl',
       message: 'Enter canonical url:',
+      type: 'input',
+    },
+    {
+      name: 'postId',
+      message: 'Enter postId:',
       type: 'input',
     },
   ])
