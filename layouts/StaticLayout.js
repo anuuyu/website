@@ -4,7 +4,7 @@ import SectionContainer from '@/components/SectionContainer'
 import { BlogSEO } from '@/components/SEO'
 import siteMetadata from '@/data/siteMetadata'
 import formatDate from '@/lib/utils/formatDate'
-import ScrollTopAndComment from '@/components/ScrollTopAndComment'
+import ScrollTop from '@/components/ScrollTop'
 
 export default function StaticLayout({ frontMatter, authorDetails, next, prev, children }) {
   const { date, title } = frontMatter
@@ -12,7 +12,7 @@ export default function StaticLayout({ frontMatter, authorDetails, next, prev, c
   return (
     <SectionContainer>
       <BlogSEO url={`${siteMetadata.siteUrl}/blog/${frontMatter.slug}`} {...frontMatter} />
-      <ScrollTopAndComment />
+      <ScrollTop />
       <article>
         <div>
           <header>
