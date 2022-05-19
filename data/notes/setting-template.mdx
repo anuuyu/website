@@ -3,10 +3,12 @@ title: 'pengaturan template tailwind nextjs starter blog'
 date: 2022-05-15
 tags: ['panduan']
 draft: false
-summary: 'kode untuk menampilkan table of content website'
+summary: 'laman ini berisi kumpulan pengaturan template tailwind nextjs starter blog yang menjadi template dasar website ini'
 ---
 
 ## kode untuk menampilkan _table of content_
 ```
 <TOCInline toc={props.toc} exclude="Overview" toHeading={2} />
+<TOCInline toc={props.toc} asDisclosure />
+
 ```
