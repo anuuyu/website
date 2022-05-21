@@ -1,27 +1,15 @@
 const courseData = [
   {
-    title: 'Snippet',
-    description: `daftar open source software yang dibuat orang indonesia.`,
-    imgSrc: '/static/images/ossmii.png',
-    href: '/notes/snippet',
+    title: 'Three.js Journey',
+    description: `The Best Way to Learn Three.js.`,
+    imgSrc: '/static/images/page/threejs-journey.svg',
+    href: 'https://threejs-journey.com/',
   },
   {
-    title: 'Snippet',
-    description: `daftar open source software yang dibuat orang indonesia.`,
-    imgSrc: '/static/images/ossmii.png',
-    href: '/notes/snippet1',
-  },
-  {
-    title: 'Snippet',
-    description: `daftar open source software yang dibuat orang indonesia.`,
-    imgSrc: '/static/images/ossmii.png',
-    href: '/notes/snippet2',
-  },
-  {
-    title: 'Snippet',
-    description: `daftar open source software yang dibuat orang indonesia.`,
-    imgSrc: '/static/images/ossmii.png',
-    href: '/notes/snippet3',
+    title: 'Epic React',
+    description: `Ger Really Good at React.`,
+    imgSrc: '/static/images/page/epicreact.svg',
+    href: 'https://epicreact.dev/',
   },
 ]
 

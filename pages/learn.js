@@ -14,7 +14,7 @@ export default function Learn() {
             Learn
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            referensi belajar web developer gratis
+            laman ini berisi resources yang telah, sedang dan akan kupelajari, baik itu yang gratis maupun berbayar.
           </p>
         </div>
         <div className="container py-12">
