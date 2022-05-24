@@ -7,9 +7,15 @@ const courseData = [
   },
   {
     title: 'Epic React',
-    description: `Ger Really Good at React.`,
+    description: `Get Really Good at React.`,
     imgSrc: '/static/images/page/epicreact.svg',
     href: 'https://epicreact.dev/',
+  },
+  {
+    title: 'Testing JavaScript',
+    description: `Learn the smart, efficient way to test any JavaScript application.`,
+    imgSrc: '/static/images/page/epicreact.svg',
+    href: 'https://testingjavascript.com/',
   },
 ]
 
