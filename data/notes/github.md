@@ -11,3 +11,7 @@ summary: 'hal yang terkait dengan github yang belum cukup dijadikan artikel'
 ```
 https://api.github.com/repos/username/reponame
 ```
+
+## git commit message emoji
+daftar kode emaji untuk commit message
+- [emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
