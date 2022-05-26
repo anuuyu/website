@@ -9,7 +9,7 @@ const notesData = [
     title: 'ToC',
     description: `kode memasang Table of Content.`,
     imgSrc: '/static/images/ossmii.png',
-    href: '/notes/toc',
+    href: '/notes/setting',
   },
 ]
 
