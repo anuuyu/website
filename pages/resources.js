@@ -1,6 +1,5 @@
 import siteMetadata from '@/data/siteMetadata'
-import { toolsData } from '@/data/toolsresourcesData'
-import { resourcesData } from '@/data/toolsresourcesData'
+import { toolsData, resourcesData } from '@/data/toolsresourcesData'
 import Card from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 

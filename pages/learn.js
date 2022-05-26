@@ -1,6 +1,5 @@
 import siteMetadata from '@/data/siteMetadata'
-import { freeData } from '@/data/learnData'
-import { premiumData } from '@/data/learnData'
+import { freeData, premiumData } from '@/data/learnData'
 import Card from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 
