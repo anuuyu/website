@@ -1,6 +1,6 @@
 import siteMetadata from '@/data/siteMetadata'
-import learnData from '@/data/learnData'
-import courseData from '@/data/courseData'
+import { freeData } from '@/data/learnData'
+import { premiumData } from '@/data/learnData'
 import Card from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 
@@ -20,7 +20,7 @@ export default function Learn() {
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
-            {learnData.map((d) => (
+            {freeData.map((d) => (
               <Card
                 key={d.title}
                 title={d.title}
@@ -38,7 +38,7 @@ export default function Learn() {
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
-            {courseData.map((d) => (
+            {premiumData.map((d) => (
               <Card
                 key={d.title}
                 title={d.title}
