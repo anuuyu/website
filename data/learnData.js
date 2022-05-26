@@ -1,6 +1,6 @@
 export const freeData = [
   {
-    title: 'Snippet',
+    title: 'Learn',
     description: `daftar open source software yang dibuat orang indonesia.`,
     imgSrc: '/static/images/ossmii.png',
     href: '/notes/snippet',
