@@ -29,31 +29,31 @@ export const premiumData = [
   {
     title: 'Three.js Journey',
     description: `The Best Way to Learn Three.js.`,
-    imgSrc: '/static/images/page/threejs-journey.svg',
+    imgSrc: '/static/images/page/learn/threejs-journey.svg',
     href: 'https://threejs-journey.com/',
   },
   {
     title: 'Epic React',
     description: `Get Really Good at React.`,
-    imgSrc: '/static/images/page/epicreact.svg',
+    imgSrc: '/static/images/page/learn/epicreact.svg',
     href: 'https://epicreact.dev/',
   },
   {
     title: 'Testing JavaScript',
     description: `Learn the smart, efficient way to test any JavaScript application.`,
-    imgSrc: '/static/images/page/epicreact.svg',
+    imgSrc: '/static/images/page/learn/epicreact.svg',
     href: 'https://testingjavascript.com/',
   },
   {
     title: 'Beginner JavaScript',
     description: `A fun, exercise heavy approach to learning Modern JavaScript from scratch.`,
-    imgSrc: '/static/images/page/epicreact.svg',
+    imgSrc: '/static/images/page/learn/epicreact.svg',
     href: 'https://beginnerjavascript.com/',
   },
   {
     title: 'Beginner JavaScript',
     description: `Learn JavaScript step by step.`,
-    imgSrc: '/static/images/page/epicreact.svg',
+    imgSrc: '/static/images/page/learn/epicreact.svg',
     href: 'https://wellpaidgeek.teachable.com/p/beginners-javascript/',
   },
 ]
