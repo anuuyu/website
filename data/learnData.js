@@ -1,9 +1,27 @@
 export const freeData = [
   {
-    title: 'Learn',
-    description: `daftar open source software yang dibuat orang indonesia.`,
+    title: 'JavaScript30',
+    description: `30 Day Vanilla JS Coding Challenge.`,
     imgSrc: '/static/images/ossmii.png',
-    href: '/notes/snippet',
+    href: 'https://javascript30.com/',
+  },
+  {
+    title: 'CSS GRID',
+    description: `LEARN CSS GRID WITH WES BOS IN 25 PRETTY GOOD VIDEOS.`,
+    imgSrc: '/static/images/ossmii.png',
+    href: 'https://cssgrid.io/',
+  },
+  {
+    title: 'flexbox',
+    description: `FLEXBOX?! A simple, free 20 video course that will help you master CSS Flexbox!.`,
+    imgSrc: '/static/images/ossmii.png',
+    href: 'https://flexbox.io/',
+  },
+  {
+    title: 'COMMAND LINE POWER USER',
+    description: `A video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.`,
+    imgSrc: '/static/images/ossmii.png',
+    href: 'https://commandlinepoweruser.com/',
   },
 ]
 
@@ -25,5 +43,17 @@ export const premiumData = [
     description: `Learn the smart, efficient way to test any JavaScript application.`,
     imgSrc: '/static/images/page/epicreact.svg',
     href: 'https://testingjavascript.com/',
+  },
+  {
+    title: 'Beginner JavaScript',
+    description: `A fun, exercise heavy approach to learning Modern JavaScript from scratch.`,
+    imgSrc: '/static/images/page/epicreact.svg',
+    href: 'https://beginnerjavascript.com/',
+  },
+  {
+    title: 'Beginner JavaScript',
+    description: `Learn JavaScript step by step.`,
+    imgSrc: '/static/images/page/epicreact.svg',
+    href: 'https://wellpaidgeek.teachable.com/p/beginners-javascript/',
   },
 ]
