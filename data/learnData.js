@@ -24,10 +24,10 @@ export const freeData = [
     href: 'https://commandlinepoweruser.com/',
   },
   {
-    title: 'CSS for JavaScript Developer',
-    description: `Stop wrestling with CSS. The all-new interactive learning experience designed to help JavaScript developers become confident with CSS.`,
+    title: 'Eloquent JavaScript',
+    description: `This is a book about JavaScript, programming, and the wonders of the digital.`,
     imgSrc: '/static/images/ossmii.png',
-    href: 'https://css-for-js.dev/',
+    href: 'https://eloquentjavascript.net/',
   },
 ]
 
@@ -61,5 +61,11 @@ export const premiumData = [
     description: `Learn JavaScript step by step.`,
     imgSrc: '/static/images/page/learn/epicreact.svg',
     href: 'https://wellpaidgeek.teachable.com/p/beginners-javascript/',
+  },
+  {
+    title: 'CSS for JavaScript Developer',
+    description: `Stop wrestling with CSS. The all-new interactive learning experience designed to help JavaScript developers become confident with CSS.`,
+    imgSrc: '/static/images/ossmii.png',
+    href: 'https://css-for-js.dev/',
   },
 ]
