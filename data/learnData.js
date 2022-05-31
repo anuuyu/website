@@ -23,6 +23,12 @@ export const freeData = [
     imgSrc: '/static/images/ossmii.png',
     href: 'https://commandlinepoweruser.com/',
   },
+  {
+    title: 'CSS for JavaScript Developer',
+    description: `Stop wrestling with CSS. The all-new interactive learning experience designed to help JavaScript developers become confident with CSS.`,
+    imgSrc: '/static/images/ossmii.png',
+    href: 'https://css-for-js.dev/',
+  },
 ]
 
 export const premiumData = [
