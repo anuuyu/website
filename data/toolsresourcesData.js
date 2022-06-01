@@ -27,10 +27,10 @@ export const toolsData = [
 
 export const resourcesData = [
   {
-    title: 'Resources',
-    description: `daftar open source software yang dibuat orang indonesia.`,
-    imgSrc: '/static/images/ossmii.png',
-    href: '/notes/snippet',
+    title: ' Anders Norén',
+    description: `Free WordPress Themes.`,
+    imgSrc: '/static/images/page/tools/andersnoren-se.svg',
+    href: 'https://andersnoren.se/teman/',
   },
   {
     title: 'Resources',
