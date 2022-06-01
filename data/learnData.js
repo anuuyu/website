@@ -68,4 +68,10 @@ export const premiumData = [
     imgSrc: '/static/images/ossmii.png',
     href: 'https://css-for-js.dev/',
   },
+  {
+    title: 'TreeHouse',
+    description: `Learn to Code Online.`,
+    imgSrc: '/static/images/ossmii.png',
+    href: 'https://teamtreehouse.com/',
+  },
 ]
