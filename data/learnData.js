@@ -74,4 +74,10 @@ export const premiumData = [
     imgSrc: '/static/images/ossmii.png',
     href: 'https://teamtreehouse.com/',
   },
+  {
+    title: 'Traversy Media',
+    description: `Web Development Courses for Everyone.`,
+    imgSrc: '/static/images/ossmii.png',
+    href: 'https://traversymedia.com/',
+  },
 ]

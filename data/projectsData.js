@@ -5,6 +5,12 @@ const projectsData = [
     imgSrc: '/static/images/ossmii.png',
     href: 'https://github.com/anuuyu/made-in-indonesia',
   },
+  {
+    title: 'NextJs Links Starter',
+    description: `NextJs templates to create links list.`,
+    imgSrc: '/static/images/ossmii.png',
+    href: '#',
+  },
 ]
 
 export default projectsData
