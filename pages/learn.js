@@ -1,6 +1,6 @@
 import siteMetadata from '@/data/siteMetadata'
 import { freeData, premiumData } from '@/data/learnData'
-import Card from '@/components/Card'
+import CardsPage from '@/components/CardsPage'
 import { PageSEO } from '@/components/SEO'
 
 export default function Learn() {
@@ -20,7 +20,7 @@ export default function Learn() {
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
             {freeData.map((d) => (
-              <Card
+              <CardsPage
                 key={d.title}
                 title={d.title}
                 description={d.description}
@@ -38,7 +38,7 @@ export default function Learn() {
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
             {premiumData.map((d) => (
-              <Card
+              <CardsPage
                 key={d.title}
                 title={d.title}
                 description={d.description}
