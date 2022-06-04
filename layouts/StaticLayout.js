@@ -11,7 +11,7 @@ export default function StaticLayout({ frontMatter, authorDetails, next, prev, c
 
   return (
     <SectionContainer>
-      <BlogSEO url={`${siteMetadata.siteUrl}/blog/${frontMatter.slug}`} {...frontMatter} />
+      <BlogSEO url={`${siteMetadata.siteUrl}/posts/${frontMatter.slug}`} {...frontMatter} />
       <ScrollTop />
       <article>
         <div>
