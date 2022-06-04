@@ -1,6 +1,6 @@
 import siteMetadata from '@/data/siteMetadata'
 import { toolsData, resourcesData } from '@/data/toolsresourcesData'
-import CardsPage from '@/components/CardsPage'
+import { CardsPage } from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 
 export default function Resources() {

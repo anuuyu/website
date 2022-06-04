@@ -1,6 +1,6 @@
 import siteMetadata from '@/data/siteMetadata'
 import challengesData from '@/data/challengesData'
-import Card from '@/components/Card'
+import { Card } from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 
 export default function Challenges() {

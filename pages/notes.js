@@ -1,6 +1,6 @@
 import siteMetadata from '@/data/siteMetadata'
 import notesData from '@/data/notesData'
-import Card from '@/components/Card'
+import { Card } from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 
 export default function Notes() {
