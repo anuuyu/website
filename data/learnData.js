@@ -80,4 +80,10 @@ export const premiumData = [
     imgSrc: '/static/images/ossmii.png',
     href: 'https://traversymedia.com/',
   },
+  {
+    title: 'Design Course',
+    description: `Kickstart your UI/UX Design Career.`,
+    imgSrc: '/static/images/ossmii.png',
+    href: 'https://designcourse.com/',
+  },
 ]
