@@ -17,6 +17,12 @@ const challengesData = [
     imgSrc: '/static/images/ossmii.png',
     href: 'https://devchallenges.io/',
   },
+  {
+    title: '50 Projects For React & The Static Web',
+    description: `Dive in with 50 projects complete with project briefs and wireframes!.`,
+    imgSrc: '/static/images/ossmii.png',
+    href: 'https://github.com/colbyfayock/50reactprojects.com',
+  },
 ]
 
 export default challengesData
