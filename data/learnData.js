@@ -29,6 +29,12 @@ export const freeData = [
     imgSrc: '/static/images/ossmii.png',
     href: 'https://eloquentjavascript.net/',
   },
+  {
+    title: 'Frontend Masters',
+    description: `Frontend Masters — Learn JavaScript, React, Vue & Angular from Masters of Front-End Development!.`,
+    imgSrc: '/static/images/ossmii.png',
+    href: 'https://frontendmasters.com/',
+  },
 ]
 
 export const premiumData = [
