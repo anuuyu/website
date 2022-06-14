@@ -35,6 +35,12 @@ export const freeData = [
     imgSrc: '/static/images/ossmii.png',
     href: 'https://frontendmasters.com/',
   },
+  {
+    title: 'GitHub Skills',
+    description: `Learn how to use GitHub with interactive courses designed for beginners and experts.`,
+    imgSrc: '/static/images/ossmii.png',
+    href: 'https://skills.github.com/',
+  },
 ]
 
 export const premiumData = [

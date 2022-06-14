@@ -1,9 +1,10 @@
 const bookmarksData = [
   {
-    title: 'Made in Indonesia',
-    description: `daftar open source software yang dibuat orang indonesia.`,
+    title:
+      'Improved dark mode default styling with the color-scheme CSS property and the corresponding meta tag',
+    description: `The color-scheme CSS property and the corresponding meta tag allow developers to opt their pages in to the theme-specific defaults of the user agent stylesheet.`,
     imgSrc: '/static/images/ossmii.png',
-    href: 'https://github.com/anuuyu/made-in-indonesia',
+    href: 'https://web.dev/color-scheme/',
   },
   {
     title: 'NextJs Links Starter',
