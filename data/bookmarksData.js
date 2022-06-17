@@ -7,10 +7,10 @@ const bookmarksData = [
     href: 'https://web.dev/color-scheme/',
   },
   {
-    title: 'NextJs Links Starter',
-    description: `NextJs templates to create links list.`,
+    title: 'An in-depth SVG tutorial',
+    description: `SVG is an awesome and incredibly powerful image format. This tutorial gives you an overview of SVG by explaining all you need to know in a simple way.`,
     imgSrc: '/static/images/ossmii.png',
-    href: '#',
+    href: 'https://flaviocopes.com/svg/',
   },
 ]
 
