@@ -13,8 +13,7 @@ export default function Learn() {
             Learn
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            laman ini berisi resources yang telah, sedang dan akan kupelajari, baik itu yang gratis
-            maupun berbayar.
+            free and paid courses.
           </p>
         </div>
         <div className="container py-12">
@@ -31,9 +30,7 @@ export default function Learn() {
           </div>
         </div>
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">
-          <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            referensi belajar berbayar
-          </p>
+          <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">paid courses</p>
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">

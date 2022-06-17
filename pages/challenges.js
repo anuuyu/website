@@ -16,7 +16,7 @@ export default function Challenges() {
             Challenges
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Daftar tantangan yang pernah dan sedang kujalankan berhubungan dengan web development.
+            Challenges I've been and are currently doing
           </p>
         </div>
         <div className="container py-12">
