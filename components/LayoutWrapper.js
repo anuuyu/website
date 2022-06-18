@@ -1,5 +1,5 @@
 import siteMetadata from '@/data/siteMetadata'
-import headerNavLinks from '@/data/headerNavLinks'
+import { headerNavLinks } from '@/data/NavLinks'
 import Logo from '@/data/logo.svg'
 import Link from './Link'
 import SectionContainer from './SectionContainer'
