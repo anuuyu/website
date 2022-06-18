@@ -3,7 +3,7 @@ import linksData from '@/data/linksData'
 import { Card } from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 
-export default function Followed() {
+export default function Links() {
   return (
     <>
       <PageSEO title={`Followed - ${siteMetadata.author}`} description={siteMetadata.description} />
