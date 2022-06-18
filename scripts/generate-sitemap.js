@@ -11,10 +11,13 @@ const siteMetadata = require('../data/siteMetadata')
     'pages/*.tsx',
     'data/posts/**/*.mdx',
     'data/posts/**/*.md',
+    'data/notes/**/*.mdx',
+    'data/notes/**/*.md',
     'public/tags/**/*.xml',
     '!pages/_*.js',
     '!pages/_*.tsx',
     '!pages/api',
+    '!pages/[*.js',
   ])
 
   const sitemap = `
@@ -36,6 +39,7 @@ const siteMetadata = require('../data/siteMetadata')
                 const path = page
                   .replace('pages/', '/')
                   .replace('data/posts', '/posts')
+                  .replace('data/notes', '/notes')
                   .replace('public/', '/')
                   .replace('.js', '')
                   .replace('.tsx', '')
