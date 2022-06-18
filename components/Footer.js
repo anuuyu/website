@@ -11,6 +11,8 @@ export default function Footer() {
           <SocialIcon kind="mail" href={`mailto:${siteMetadata.email}`} size="8" />
           <SocialIcon kind="github" href={siteMetadata.github} size="8" />
           <SocialIcon kind="twitter" href={siteMetadata.twitter} size="8" />
+          <SocialIcon kind="codepen" href={siteMetadata.codepen} size="8" />
+          <SocialIcon kind="devto" href={siteMetadata.devto} size="8" />
         </div>
         <div className="mb-3 flex flex-wrap justify-center space-x-4">
           {footerNavLinks.map((link) => (

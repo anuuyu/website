@@ -13,6 +13,8 @@ const siteMetadata = {
   email: 'yu@anuu.me',
   github: 'https://github.com/anuuyu',
   twitter: 'https://twitter.com/anuuyu',
+  codepen: 'https://codepen.io/anuuyu',
+  devto: 'https://dev.to/yu',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the

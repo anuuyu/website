@@ -1,6 +1,8 @@
 import Mail from './mail.svg'
 import Github from './github.svg'
 import Twitter from './twitter.svg'
+import CodePen from './codepen.svg'
+import Devto from './devto.svg'
 
 // Icons taken from: https://simpleicons.org/
 
@@ -8,6 +10,8 @@ const components = {
   mail: Mail,
   github: Github,
   twitter: Twitter,
+  codepen: CodePen,
+  devto: Devto,
 }
 
 const SocialIcon = ({ kind, href, size = 8 }) => {
