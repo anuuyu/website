@@ -94,7 +94,7 @@ export const CardsPage = ({ title, description, imgSrc, href }) => (
 )
 
 export const BookmarksCard = ({ title, description, href }) => (
-  <div className="md p-4 md:w-1/2" style={{ maxWidth: '544px' }}>
+  <div className="p-4">
     <div
       className={`overflow-hidden rounded-md border-2 border-gray-200 border-opacity-60 dark:border-gray-700`}
     >
@@ -114,7 +114,7 @@ export const BookmarksCard = ({ title, description, href }) => (
       </svg>
 
       <div className="p-6">
-        <h2 className="mb-3 text-2xl font-bold leading-8 tracking-tight">
+        <h4 className="mb-3 text-2xl font-bold leading-8 tracking-tight">
           {href ? (
             <Link href={href} aria-label={`Link to ${title}`}>
               {title}
@@ -122,7 +122,7 @@ export const BookmarksCard = ({ title, description, href }) => (
           ) : (
             title
           )}
-        </h2>
+        </h4>
         <p className="prose mb-3 max-w-none text-gray-500 dark:text-gray-400">{description}</p>
         {href && (
           <Link
@@ -130,7 +130,7 @@ export const BookmarksCard = ({ title, description, href }) => (
             className="text-base font-medium leading-6 text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
             aria-label={`Link to ${title}`}
           >
-            Learn more &rarr;
+            Read Article &rarr;
           </Link>
         )}
       </div>
