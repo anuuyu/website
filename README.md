@@ -1,9 +1,11 @@
 ![tailwind-nextjs-banner](/public/static/images/asset/twitter-card.png)
 
 # my portfolio
+
 ## build with:
+
 - Nextjs
-	- [Tailwind Nextjs Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
+  - [Tailwind Nextjs Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
 - TailwindCSS
 - vercel
 
@@ -110,3 +112,7 @@
 └── tailwind.config.js
 
 ```
+
+### support
+
+my website build with [tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) by [Timothy](https://github.com/timlrx) [support](https://github.com/sponsors/timlrx)
