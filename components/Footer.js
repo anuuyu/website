@@ -1,6 +1,7 @@
 import Link from './Link'
 import siteMetadata from '@/data/siteMetadata'
 import SocialIcon from '@/components/social-icons'
+import footerNavLinks from '@/data/footerNavLinks'
 
 export default function Footer() {
   return (
@@ -10,6 +11,17 @@ export default function Footer() {
           <SocialIcon kind="mail" href={`mailto:${siteMetadata.email}`} size="8" />
           <SocialIcon kind="github" href={siteMetadata.github} size="8" />
           <SocialIcon kind="twitter" href={siteMetadata.twitter} size="8" />
+        </div>
+        <div className="mb-3 flex flex-wrap justify-center space-x-4">
+          {footerNavLinks.map((link) => (
+            <Link
+              key={link.title}
+              href={link.href}
+              className="p-1 font-medium text-gray-900 dark:text-gray-100 sm:p-4"
+            >
+              {link.title}
+            </Link>
+          ))}
         </div>
         <div className="mb-2 flex space-x-2 text-sm text-gray-500 dark:text-gray-400">
           <div>{siteMetadata.author}</div>
