@@ -8,7 +8,7 @@ const projectsData = [
   {
     title: 'NextJs Links Starter',
     description: `NextJs templates to create links list.`,
-    imgSrc: '/static/images/ossmii.png',
+    imgSrc: '/static/images/page/thumbnail.svg',
     href: '#',
   },
 ]
