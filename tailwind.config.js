@@ -28,7 +28,7 @@ module.exports = {
         sans: ['Poppins', ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        primary: colors.teal,
+        primary: colors.green,
         gray: colors.neutral,
       },
       typography: (theme) => ({
