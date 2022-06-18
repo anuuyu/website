@@ -1,6 +1,6 @@
 import siteMetadata from '@/data/siteMetadata'
 import bookmarksData from '@/data/bookmarksData'
-import { Card } from '@/components/Card'
+import { BookmarksCard } from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 
 export default function Bookmarks() {
@@ -22,7 +22,7 @@ export default function Bookmarks() {
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
             {bookmarksData.map((d) => (
-              <Card
+              <BookmarksCard
                 key={d.title}
                 title={d.title}
                 description={d.description}
