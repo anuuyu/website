@@ -1,7 +1,7 @@
 const footerNavLinks = [
   { href: '/bookmarks', title: 'Bookmarks' },
   { href: '/challenges', title: 'Challenges' },
-  { href: '/followed', title: 'Followed' },
+  { href: '/links', title: 'Links' },
   { href: '/books', title: 'Books' },
   { href: '/wishlist', title: 'Wishlist' },
 ]

@@ -1,4 +1,4 @@
-const followedData = [
+const linksData = [
   {
     title: 'Made in Indonesia',
     description: `daftar open source software yang dibuat orang indonesia.`,
@@ -13,4 +13,4 @@ const followedData = [
   },
 ]
 
-export default followedData
+export default linksData
