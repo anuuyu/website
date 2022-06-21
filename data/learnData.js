@@ -37,9 +37,15 @@ export const freeData = [
   },
   {
     title: 'Reactiflux',
-    description: `Learn how to use GitHub with interactive courses designed for beginners and experts.`,
+    description: `We’re a chat community of 170,000+ React JS React JS, React Native React Native, Redux Redux, Jest Jest, Relay Relay and GraphQL GraphQL developers. We hold Q&A’s with Facebook Engineers Facebook Organization and other developers Reactiflux Developers in the community Reactiflux Discord. Come chat about tech related to React & JavaScript or ask for help!.`,
     imgSrc: '/static/images/page/learn/reactiflux.svg',
     href: 'https://www.reactiflux.com/learning',
+  },
+  {
+    title: 'web.dev Courses',
+    description: `Explore our structured learning paths to discover everything you need to know about building for the modern web.`,
+    imgSrc: '/static/images/page/learn/webdev.svg',
+    href: 'https://web.dev/learn/',
   },
 ]
 
