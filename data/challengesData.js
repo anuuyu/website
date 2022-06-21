@@ -23,6 +23,12 @@ const challengesData = [
     imgSrc: '/static/images/page/thumbnail.svg',
     href: 'https://github.com/colbyfayock/50reactprojects.com',
   },
+  {
+    title: 'Daily UI',
+    description: `Become a Better Designer in 100 Days.`,
+    imgSrc: '/static/images/page/thumbnail.svg',
+    href: 'https://www.dailyui.co/',
+  },
 ]
 
 export default challengesData

@@ -30,23 +30,23 @@ export const freeData = [
     href: 'https://eloquentjavascript.net/',
   },
   {
-    title: 'Frontend Masters',
-    description: `Frontend Masters — Learn JavaScript, React, Vue & Angular from Masters of Front-End Development!.`,
-    imgSrc: '/static/images/page/thumbnail.svg',
-    href: 'https://frontendmasters.com/',
-  },
-  {
     title: 'GitHub Skills',
     description: `Learn how to use GitHub with interactive courses designed for beginners and experts.`,
-    imgSrc: '/static/images/page/thumbnail.svg',
+    imgSrc: '/static/images/page/learn/githubskills.svg',
     href: 'https://skills.github.com/',
+  },
+  {
+    title: 'Reactiflux',
+    description: `Learn how to use GitHub with interactive courses designed for beginners and experts.`,
+    imgSrc: '/static/images/page/learn/reactiflux.svg',
+    href: 'https://www.reactiflux.com/learning',
   },
 ]
 
 export const premiumData = [
   {
     title: 'Three.js Journey',
-    description: `The Best Way to Learn Three.js.`,
+    description: `We’re a chat community of 170,000+ React JS React JS, React Native React Native, Redux Redux, Jest Jest, Relay Relay and GraphQL GraphQL developers. We hold Q&A’s with Facebook Engineers Facebook Organization and other developers Reactiflux Developers in the community Reactiflux Discord. Come chat about tech related to React & JavaScript or ask for help!.`,
     imgSrc: '/static/images/page/learn/threejs-journey.svg',
     href: 'https://threejs-journey.com/',
   },
@@ -97,5 +97,11 @@ export const premiumData = [
     description: `Kickstart your UI/UX Design Career.`,
     imgSrc: '/static/images/page/thumbnail.svg',
     href: 'https://designcourse.com/',
+  },
+  {
+    title: 'Frontend Masters',
+    description: `Frontend Masters — Learn JavaScript, React, Vue & Angular from Masters of Front-End Development!.`,
+    imgSrc: '/static/images/page/thumbnail.svg',
+    href: 'https://frontendmasters.com/',
   },
 ]
