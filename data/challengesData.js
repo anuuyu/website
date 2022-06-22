@@ -1,20 +1,8 @@
 const challengesData = [
   {
-    title: 'Codier',
-    description: `Front-end coding challenges.`,
-    imgSrc: '/static/images/page/thumbnail.svg',
-    href: 'https://codier.io/',
-  },
-  {
-    title: 'Frontend Mentor',
-    description: `Frontend Mentor | Front-end coding challenges using a real-life workflow.`,
-    imgSrc: '/static/images/page/thumbnail.svg',
-    href: 'https://www.frontendmentor.io/',
-  },
-  {
     title: 'devChallenges.io',
     description: `devChallenges.io | Real-life Coding Challenges to become a Software Engineer.`,
-    imgSrc: '/static/images/page/thumbnail.svg',
+    imgSrc: '/static/images/page/challenges/devchallenges.svg',
     href: 'https://devchallenges.io/',
   },
   {
@@ -32,25 +20,25 @@ const challengesData = [
   {
     title: 'Codepen Challenges',
     description: `Challenges are fun opportunities for leveling up your skills by building things. Each week, you’ll get a new prompt surrounding a monthly theme to riff on. The best Pens get picked and featured on the homepage!.`,
-    imgSrc: '/static/images/page/thumbnail.svg',
+    imgSrc: '/static/images/page/challenges/codepen.svg',
     href: 'https://codepen.io/challenges',
   },
   {
     title: 'Frontend Mentor Challenges',
     description: `Challenges are fun opportunities for leveling up your skills by building things. Each week, you’ll get a new prompt surrounding a monthly theme to riff on. The best Pens get picked and featured on the homepage!.`,
-    imgSrc: '/static/images/page/thumbnail.svg',
+    imgSrc: '/static/images/page/challenges/frontendmentor.svg',
     href: 'https://www.frontendmentor.io/challenges',
   },
   {
     title: 'DevProjects by codementor',
     description: `Learn programming by building projects.`,
-    imgSrc: '/static/images/page/thumbnail.svg',
+    imgSrc: '/static/images/page/challenges/codementor.png',
     href: 'https://www.codementor.io/projects',
   },
   {
     title: 'CSSBattle',
     description: `The CSS Code-golfing game.`,
-    imgSrc: '/static/images/page/tools/cssbattledev.svg',
+    imgSrc: '/static/images/page/challenges/cssbattledev.svg',
     href: 'https://cssbattle.dev/',
   },
   {
@@ -62,7 +50,7 @@ const challengesData = [
   {
     title: 'acefrontend.com',
     description: `Ace your web developer interview.`,
-    imgSrc: '/static/images/page/challenges/codierio.svg',
+    imgSrc: '/static/images/page/challenges/acefrontend.svg',
     href: 'https://www.acefrontend.com/',
   },
 ]

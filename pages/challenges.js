@@ -1,7 +1,7 @@
 import siteMetadata from '@/data/siteMetadata'
 import challengesData from '@/data/challengesData'
-import { Card } from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
+import { CardsPage } from '../components/Card'
 
 export default function Challenges() {
   return (
@@ -22,7 +22,7 @@ export default function Challenges() {
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
             {challengesData.map((d) => (
-              <Card
+              <CardsPage
                 key={d.title}
                 title={d.title}
                 description={d.description}

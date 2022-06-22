@@ -5,8 +5,9 @@ import {
   freeLearningResourcesData,
   premiumLearningResourcesData,
 } from '@/data/toolsresourcesData'
-import { CardsPage } from '@/components/Card'
+import { ToolsPage } from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
+import ScrollTop from '@/components/ScrollTop'
 
 export default function Resources() {
   return (
@@ -15,6 +16,7 @@ export default function Resources() {
         title={`Tools and resources - ${siteMetadata.author}`}
         description={siteMetadata.description}
       />
+      <ScrollTop />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
@@ -26,8 +28,8 @@ export default function Resources() {
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
-            {toolsData.map((d) => (
-              <CardsPage
+            {freeLearningResourcesData.map((d) => (
+              <ToolsPage
                 key={d.title}
                 title={d.title}
                 description={d.description}
@@ -44,8 +46,8 @@ export default function Resources() {
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
-            {resourcesData.map((d) => (
-              <CardsPage
+            {premiumLearningResourcesData.map((d) => (
+              <ToolsPage
                 key={d.title}
                 title={d.title}
                 description={d.description}
@@ -56,14 +58,14 @@ export default function Resources() {
           </div>
         </div>
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">
-          <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
+          <h3 className="text-lg leading-7 text-gray-500 dark:text-gray-400">
             free learning Resources
-          </p>
+          </h3>
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
-            {freeLearningResourcesData.map((d) => (
-              <CardsPage
+            {toolsData.map((d) => (
+              <ToolsPage
                 key={d.title}
                 title={d.title}
                 description={d.description}
@@ -80,8 +82,8 @@ export default function Resources() {
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
-            {premiumLearningResourcesData.map((d) => (
-              <CardsPage
+            {resourcesData.map((d) => (
+              <ToolsPage
                 key={d.title}
                 title={d.title}
                 description={d.description}
