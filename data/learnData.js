@@ -47,6 +47,24 @@ export const freeData = [
     imgSrc: '/static/images/page/learn/webdev.svg',
     href: 'https://web.dev/learn/',
   },
+  {
+    title: 'MDN Web Docs',
+    description: `Resources for Developers, by Developers_.`,
+    imgSrc: '/static/images/page/learn/webdev.svg',
+    href: 'https://developer.mozilla.org/en-US/',
+  },
+  {
+    title: 'Learn X in Y Minutes',
+    description: `Take a whirlwind tour of your next favorite language. Community-driven!.`,
+    imgSrc: '/static/images/page/learn/webdev.svg',
+    href: 'https://learnxinyminutes.com/',
+  },
+  {
+    title: 'FreeCodeCamp🔥',
+    description: `Learn to code — for free. Build projects. Earn certifications.`,
+    imgSrc: '/static/images/page/learn/webdev.svg',
+    href: 'https://www.freecodecamp.org/',
+  },
 ]
 
 export const premiumData = [
