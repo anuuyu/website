@@ -12,5 +12,6 @@ export const footerNavLinks = [
   { href: '/books', title: 'Books' },
   { href: '/challenges', title: 'Challenges' },
   { href: '/links', title: 'Links' },
+  { href: '/timeline', title: 'Timeline' },
   { href: '/wishlist', title: 'Wishlist' },
 ]
