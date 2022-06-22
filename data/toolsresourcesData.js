@@ -125,6 +125,12 @@ export const freeLearningResourcesData = [
     imgSrc: '/static/images/page/learn/webdev.svg',
     href: 'https://www.30secondsofcode.org/',
   },
+  {
+    title: 'codecademy',
+    description: `Join the millions learning to code with Codecademy for free.`,
+    imgSrc: '/static/images/page/thumbnail.svg',
+    href: 'https://www.codecademy.com/',
+  },
 ]
 
 export const premiumLearningResourcesData = [
@@ -193,5 +199,11 @@ export const premiumLearningResourcesData = [
     description: `Don't spend $15K on a coding bootcamp Our Frontend Career Path helps motivated students become hireable developers for a fraction of the cost`,
     imgSrc: '/static/images/page/thumbnail.svg',
     href: 'https://scrimba.com/',
+  },
+  {
+    title: 'treehouse',
+    description: `Best online coding classes for at-home learning`,
+    imgSrc: '/static/images/page/thumbnail.svg',
+    href: 'https://teamtreehouse.com/',
   },
 ]
