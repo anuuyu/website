@@ -30,6 +30,12 @@ export const freeLearningResourcesData = [
     href: 'https://github.com/workshopper',
   },
   {
+    title: 'JavaScript 101',
+    description: `JavaScript 101.`,
+    imgSrc: 'thumbnail.svg',
+    href: 'https://hsablonniere.github.io/markleft/prezas/javascript-101.html',
+  },
+  {
     title: 'Learn Nodejs',
     description: `Introduction to Node.js.`,
     imgSrc: 'thumbnail.svg',
