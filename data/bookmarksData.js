@@ -15,6 +15,11 @@ const bookmarksData = [
     description: `As a developer, you should be familiar with StackExchange. There are tons of resources available on there about software development and programming. Out of everything, I have compiled a list of the top 8 resources that I find helpful. These resources cover a wide range of topics such as web development, general programming, and best practices to follow during development.`,
     href: 'https://www.loginradius.com/blog/engineering/stackexchange-8-best-resources-every-developer-must-follow/',
   },
+  {
+    title: 'NextJS + Supabase + Clerk: Build a simple todo app with multifactor authentication',
+    description: `Learn how to build a todo app with Next.js, Clerk, and Supabase. This app will add todos, sign in, sign up, user profile and multifactor authentication.`,
+    href: 'https://clerk.dev/blog/nextjs-supabase-todos-with-multifactor-authentication',
+  },
 ]
 
 export default bookmarksData
