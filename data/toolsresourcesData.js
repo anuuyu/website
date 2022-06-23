@@ -18,6 +18,24 @@ export const resourcesData = [
 
 export const freeLearningResourcesData = [
   {
+    title: 'NODESCHOOL',
+    description: `Open source workshops that teach web software skills. Do them on your own or at a workshop nearby.`,
+    imgSrc: 'thumbnail.svg',
+    href: 'https://nodeschool.io/',
+  },
+  {
+    title: 'Workshopper',
+    description: `Build to teach. Teach to build.`,
+    imgSrc: 'thumbnail.svg',
+    href: 'https://github.com/workshopper',
+  },
+  {
+    title: 'Learn Nodejs',
+    description: `Introduction to Node.js.`,
+    imgSrc: 'thumbnail.svg',
+    href: 'https://nodejs.dev/learn',
+  },
+  {
     title: 'JavaScript30',
     description: `30 Day Vanilla JS Coding Challenge.`,
     imgSrc: 'thumbnail.svg',
