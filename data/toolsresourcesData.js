@@ -5,14 +5,44 @@ export const toolsData = [
     imgSrc: 'thumbnail.svg',
     href: 'https://caniuse.com/',
   },
+  {
+    title: 'Code to go',
+    description: `Find up to date snippets for JavaScript & React use cases.`,
+    imgSrc: 'codetogo.svg',
+    href: 'https://codetogo.io/',
+  },
+  {
+    title: 'DevDocs API Documentation',
+    description: `DevDocs combines multiple API documentations in a fast, organized, and searchable interface.`,
+    imgSrc: 'codetogo.svg',
+    href: 'https://devdocs.io/',
+  },
 ]
 
 export const resourcesData = [
   {
-    title: ' Anders Norén',
+    title: 'Anders Norén',
     description: `Free WordPress Themes.`,
     imgSrc: 'andersnoren-se.svg',
     href: 'https://andersnoren.se/teman/',
+  },
+  {
+    title: 'Learn UI Design',
+    description: `Free UI/UX Tutorials & Tools: The Learn UI Design Blog.`,
+    imgSrc: 'learnuidesign.svg',
+    href: 'https://learnui.design/blog/',
+  },
+  {
+    title: 'Human Interface Guidelines',
+    description: `Learn how to design great apps and games that integrate seamlessly with Apple platforms.`,
+    imgSrc: 'learnuidesign.svg',
+    href: 'https://developer.apple.com/design/',
+  },
+  {
+    title: 'Material Design',
+    description: `Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design. Backed by open-source code, Material streamlines collaboration between designers and developers, and helps teams quickly build beautiful products.`,
+    imgSrc: 'learnuidesign.svg',
+    href: 'https://material.io/',
   },
 ]
 
@@ -161,6 +191,54 @@ export const freeLearningResourcesData = [
     imgSrc: 'smashingmagazine.svg',
     href: 'https://www.smashingmagazine.com/',
   },
+  {
+    title: 'JS Roadmap',
+    description: `JavaScript beginners: Learn JavaScript without feeling afraid, overwhelmed, or confused.`,
+    imgSrc: 'jsroadmap.svg',
+    href: 'https://jsroadmap.com/',
+  },
+  {
+    title: 'JavaScript Info',
+    description: `The Modern JavaScript Tutorial.`,
+    imgSrc: 'javascriptinfo.svg',
+    href: 'https://javascript.info/',
+  },
+  {
+    title: 'Coderslang JS',
+    description: `Do you want to learn JavaScript and find your first job as a programmer?`,
+    imgSrc: 'coderslang.svg',
+    href: 'https://js.coderslang.com/',
+  },
+  {
+    title: 'Coderslang Learn',
+    description: `Coderslang: Become a Software Engineer.`,
+    imgSrc: 'coderslang.svg',
+    href: 'https://learn.coderslang.com/',
+  },
+  {
+    title: 'Learn JavaScript',
+    description: `The easiest way to  learn  &  practice  modern JavaScript.`,
+    imgSrc: 'learnjavascriptonline.svg',
+    href: 'https://learnjavascript.online/?utm_source=anuu.me',
+  },
+  {
+    title: 'Learn HTML CSS',
+    description: `The easiest way to learn semantic and accessible HTML and CSS step by step.`,
+    imgSrc: 'learnjavascriptonline.svg',
+    href: 'https://learnhtmlcss.online/?utm_source=anuu.me',
+  },
+  {
+    title: 'Learn Programming',
+    description: `The easiest way to learn programming step by step.`,
+    imgSrc: 'learnjavascriptonline.svg',
+    href: 'https://learnprogramming.online/?utm_source=anuu.me',
+  },
+  {
+    title: 'React Tutorial',
+    description: `The easiest way to learn React.`,
+    imgSrc: 'learnjavascriptonline.svg',
+    href: 'https://react-tutorial.app/?utm_source=anuu.me',
+  },
 ]
 
 export const premiumLearningResourcesData = [
@@ -229,5 +307,17 @@ export const premiumLearningResourcesData = [
     description: `Don't spend $15K on a coding bootcamp Our Frontend Career Path helps motivated students become hireable developers for a fraction of the cost`,
     imgSrc: 'scrimba.svg',
     href: 'https://scrimba.com/',
+  },
+  {
+    title: 'uxcel',
+    description: `Where UX design careers are built`,
+    imgSrc: 'uxcel.svg',
+    href: 'https://uxcel.com/',
+  },
+  {
+    title: 'Learn JavaScript Today',
+    description: `Build anything you want with JavaScript`,
+    imgSrc: 'learnjavascripttoday.svg',
+    href: 'https://learnjavascript.today/',
   },
 ]
