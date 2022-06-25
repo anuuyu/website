@@ -3,6 +3,8 @@ import PageTitle from '@/components/PageTitle'
 import generateRss from '@/lib/generate-rss'
 import { MDXLayoutRenderer } from '@/components/MDXComponents'
 import { formatSlug, getAllFilesFrontMatter, getFileBySlug, getFiles } from '@/lib/mdx'
+import siteMetadata from '@/data/siteMetadata'
+import NewsletterForm from '@/components/NewsletterForm'
 
 const DEFAULT_LAYOUT = 'PostLayout'
 
@@ -63,6 +65,11 @@ export default function Blog({ post, authorDetails, prev, next }) {
               🚧
             </span>
           </PageTitle>
+        </div>
+      )}
+      {siteMetadata.newsletter.provider !== '' && (
+        <div className="flex items-center justify-center pt-4">
+          <NewsletterForm />
         </div>
       )}
     </>
