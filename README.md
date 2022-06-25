@@ -16,7 +16,6 @@
 │	├── analytics/
 │	├── Card.js
 │	├── ClientReload.js
-│	├── comments/
 │	├── Footer.js
 │	├── Image.js
 │	├── LayoutWrapper.js
@@ -28,7 +27,6 @@
 │	├── Pagination.js
 │	├── Pre.js
 │	├── ScrollTop.js
-│	├── ScrollTopAndComment.js
 │	├── SectionContainer.js
 │	├── SEO.js
 │	├── social-icons/
@@ -40,17 +38,21 @@
 │	└── tailwind.css
 ├── data/
 │	├── authors/
-│	├── blog/
-│	├── courseData.js
-│	├── headerNavLinks.js
-│	├── learnData.js
-│	├── logo.svg
-│	├── projectsData.js
-│	├── references-data.bib
-│	├── siteMetadata.js
 │	├── notes/
+│	├── posts/
+│	├── static/
+│	├── bookmarksData.js
+│	├── booksData.js
+│	├── challengesData.js
+│	├── linksData.js
+│	├── logo.svg
+│	├── navLinks.js
 │	├── notesData.js
-│	└── static/
+│	├── projectsData.js
+│	├── siteMetadata.js
+│	├── timelineData.js
+│	├── toolsresourcesData.js
+│	├── wishlistData.js
 ├── layouts/
 │	├── AuthorLayout.js
 │	├── ListLayout.js
@@ -75,11 +77,11 @@
 │	├── about.js
 │	├── api/
 │	├── _app.js
-│	├── blog
+│	├── posts
 │	│   ├── page/
 │	│   │   └── [page].js
 │	│   └── [...slug].js
-│	├── blog.js
+│	├── posts.js
 │	├── _document.js
 │	├── index.js
 │	├── learn.js
