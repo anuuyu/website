@@ -239,6 +239,12 @@ export const freeLearningResourcesData = [
     imgSrc: 'learnjavascriptonline.svg',
     href: 'https://react-tutorial.app/?utm_source=anuu.me',
   },
+  {
+    title: 'LeetCode',
+    description: `LeetCode - The World's Leading Online Programming Learning Platform.`,
+    imgSrc: 'leetcode.svg',
+    href: 'https://leetcode.com/',
+  },
 ]
 
 export const premiumLearningResourcesData = [
