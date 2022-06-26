@@ -45,6 +45,11 @@ const bookmarksData = [
     description: `This article represents my current understanding of the differences between JavaScript and ECMAScript.`,
     href: 'https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/',
   },
+  {
+    title: 'Next.js + TypeScript, the Big List of Tools, and Upcoming Features 🧘‍♂️',
+    description: `😌 Wadup Next.js devs, time flew since the last issue. Here's why: I was working heavily on my SaaS (TurnShift, 100% Next.js). This time we'll talk about TypeScript. Whether you already use it or not with Next.js, I think you might learn something new.`,
+    href: 'https://nextjsnews.com/4',
+  },
 ]
 
 export default bookmarksData
