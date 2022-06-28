@@ -13,6 +13,7 @@ export default function Footer() {
           <SocialIcon kind="twitter" href={siteMetadata.twitter} size="8" />
           <SocialIcon kind="codepen" href={siteMetadata.codepen} size="8" />
           <SocialIcon kind="devto" href={siteMetadata.devto} size="8" />
+          <SocialIcon kind="kofi" href={siteMetadata.kofi} size="8" />
         </div>
         <div className="mb-3 flex flex-wrap justify-center space-x-4">
           {footerNavLinks.map((link) => (

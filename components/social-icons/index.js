@@ -3,6 +3,7 @@ import Github from './github.svg'
 import Twitter from './twitter.svg'
 import CodePen from './codepen.svg'
 import Devto from './devto.svg'
+import Kofi from './ko-fi.svg'
 
 // Icons taken from: https://simpleicons.org/
 
@@ -12,6 +13,7 @@ const components = {
   twitter: Twitter,
   codepen: CodePen,
   devto: Devto,
+  kofi: Kofi,
 }
 
 const SocialIcon = ({ kind, href, size = 8 }) => {
