@@ -17,7 +17,7 @@ const siteMetadata = {
   devto: 'https://dev.to/yu',
   locale: 'en-US',
   analytics: {
-    // add app.posthog.com to the content security policy in the `next.config.js` file.
+    // add app.posthog.com   to the content security policy in the `next.config.js` file.
     // PostHog Analytics
     posthogAnalytics: true, // true or false
   },
