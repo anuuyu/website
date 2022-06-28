@@ -15,6 +15,7 @@ const siteMetadata = {
   twitter: 'https://twitter.com/anuuyu',
   codepen: 'https://codepen.io/anuuyu',
   devto: 'https://dev.to/yu',
+  kofi: 'https://ko-fi.com/anuuyu',
   locale: 'en-US',
   analytics: {
     // add app.posthog.com   to the content security policy in the `next.config.js` file.
