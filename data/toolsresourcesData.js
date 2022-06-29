@@ -287,6 +287,42 @@ export const freeLearningResourcesData = [
     imgSrc: 'semrush-academy.png',
     href: 'https://www.semrush.com/academy/',
   },
+  {
+    title: 'ES6 for Humans',
+    description: `A kickstarter guide to writing ES6.`,
+    imgSrc: 'es6-for-humans.jpg',
+    href: 'https://github.com/metagrover/ES6-for-humans',
+  },
+  {
+    title: 'What the f*ck JavaScript?',
+    description: ` A list of funny and tricky JavaScript examples.`,
+    imgSrc: 'github.svg',
+    href: 'https://github.com/denysdovhan/wtfjs',
+  },
+  {
+    title: 'JavaScript Questions',
+    description: `A long list of (advanced) JavaScript questions, and their explanation.`,
+    imgSrc: 'github.svg',
+    href: 'https://github.com/lydiahallie/javascript-questions',
+  },
+  {
+    title: 'clean-code-javascript',
+    description: ` Clean Code concepts adapted for JavaScript.`,
+    imgSrc: 'github.svg',
+    href: 'https://github.com/ryanmcdermott/clean-code-javascript',
+  },
+  {
+    title: 'You Don`t Know JS Yet (book series) - 2nd Edition',
+    description: `A book series on JavaScript. @YDKJS on twitter.`,
+    imgSrc: 'github.svg',
+    href: 'https://github.com/getify/You-Dont-Know-JS',
+  },
+  {
+    title: 'JavaScript Algorithms and Data Structures',
+    description: `Algorithms and data structures implemented in JavaScript with explanations and links to further readings.`,
+    imgSrc: 'github.svg',
+    href: 'https://github.com/trekhleb/javascript-algorithms',
+  },
 ]
 
 export const premiumLearningResourcesData = [
