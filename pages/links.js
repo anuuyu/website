@@ -1,5 +1,5 @@
 import siteMetadata from '@/data/siteMetadata'
-import linksData from '@/data/linksData'
+import { twlinksData } from '@/data/linksData'
 import { Card } from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 
@@ -13,12 +13,12 @@ export default function Links() {
             Awesome Links
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            some awesome people i followed on the web
+            i followed a lot awesome people on twitter, this my highlight.
           </p>
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
-            {linksData.map((d) => (
+            {twlinksData.map((d) => (
               <Card
                 key={d.title}
                 title={d.title}

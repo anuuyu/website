@@ -65,6 +65,11 @@ const bookmarksData = [
     description: `I’m pretty sure 99% of the developers out there just love markdown. It’s such a fantastic format to write in.`,
     href: 'https://blog.openreplay.com/creating-a-markdown-blog-powered-by-next-js-in-under-an-hour',
   },
+  {
+    title: 'How to Research Keywords: A Step-By-Step Guide for SEO',
+    description: `Ranking in search results is not as complicated or mysterious as you’d think. In order to rank, a page must indicate its relevance and the website itself must be authoritative in the eyes of search engines.`,
+    href: 'https://www.orbitmedia.com/blog/how-to-research-keywords-tips/',
+  },
 ]
 
 export default bookmarksData

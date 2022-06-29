@@ -1,16 +1,8 @@
-const linksData = [
+export const twlinksData = [
   {
-    title: 'Made in Indonesia',
-    description: `daftar open source software yang dibuat orang indonesia.`,
+    title: 'Andy Crestodina (@crestodina)',
+    description: `Speaker, content marketer, co-founder of Orbit Media (@orbiteers) and author of Content Chemistry.`,
     imgSrc: '/static/images/page/thumbnail.svg',
-    href: 'https://github.com/anuuyu/made-in-indonesia',
-  },
-  {
-    title: 'NextJs Links Starter',
-    description: `NextJs templates to create links list.`,
-    imgSrc: '/static/images/page/thumbnail.svg',
-    href: '#',
+    href: 'https://twitter.com/crestodina',
   },
 ]
-
-export default linksData
