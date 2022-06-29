@@ -275,6 +275,12 @@ export const freeLearningResourcesData = [
     imgSrc: 'moderncss.png',
     href: 'https://moderncss.dev/',
   },
+  {
+    title: 'TypeScript Deep Dive',
+    description: `The definitive guide to TypeScript and possibly the best TypeScript book. Free and Open Source.`,
+    imgSrc: 'moderncss.png',
+    href: 'https://basarat.gitbook.io/typescript/',
+  },
 ]
 
 export const premiumLearningResourcesData = [
