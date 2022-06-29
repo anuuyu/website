@@ -53,6 +53,12 @@ const challengesData = [
     imgSrc: '/static/images/page/challenges/acefrontend.svg',
     href: 'https://www.acefrontend.com/',
   },
+  {
+    title: 'Modern CSS Challenges',
+    description: `Guided Practice For Leveling Up With Modern CSS`,
+    imgSrc: '/static/images/page/challenges/acefrontend.svg',
+    href: 'https://challenges.moderncss.dev/',
+  },
 ]
 
 export default challengesData

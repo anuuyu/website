@@ -50,6 +50,11 @@ const bookmarksData = [
     description: `😌 Wadup Next.js devs, time flew since the last issue. Here's why: I was working heavily on my SaaS (TurnShift, 100% Next.js). This time we'll talk about TypeScript. Whether you already use it or not with Next.js, I think you might learn something new.`,
     href: 'https://nextjsnews.com/4',
   },
+  {
+    title: 'Best practices for ecommerce sites in Google Search',
+    description: `A critical challenge for any ecommerce website is being discovered in Search. Acquiring customers and building a relationship with them is an important driver of business growth, and Google can help shoppers discover your site at each stage in the shopping journey.`,
+    href: 'https://developers.google.com/search/docs/advanced/ecommerce/overview',
+  },
 ]
 
 export default bookmarksData

@@ -17,6 +17,24 @@ export const toolsData = [
     imgSrc: 'codetogo.svg',
     href: 'https://devdocs.io/',
   },
+  {
+    title: 'buttonbuddy',
+    description: `ButtonBuddy - Accessible button contrast generator.`,
+    imgSrc: 'buttonbuddy.svg',
+    href: 'https://buttonbuddy.dev/',
+  },
+  {
+    title: 'SmolCSS',
+    description: `Minimal snippets for modern CSS layouts and components.`,
+    imgSrc: 'smolcss.png',
+    href: 'https://smolcss.dev/',
+  },
+  {
+    title: 'Style Stage',
+    description: `A modern CSS showcase styled by community contributions.`,
+    imgSrc: 'stylestage.png',
+    href: 'https://stylestage.dev/',
+  },
 ]
 
 export const resourcesData = [
@@ -242,8 +260,20 @@ export const freeLearningResourcesData = [
   {
     title: 'LeetCode',
     description: `LeetCode - The World's Leading Online Programming Learning Platform.`,
-    imgSrc: 'leetcode.svg',
+    imgSrc: 'leetcode.png',
     href: 'https://leetcode.com/',
+  },
+  {
+    title: 'Learn How To Make a Website with Steph',
+    description: `A web development video course for beginners.`,
+    imgSrc: 'learnfromsteph.svg',
+    href: 'https://learnfromsteph.dev/',
+  },
+  {
+    title: 'Modern CSS',
+    description: `Modern CSS solution for old CSS problems.`,
+    imgSrc: 'moderncss.png',
+    href: 'https://moderncss.dev/',
   },
 ]
 
