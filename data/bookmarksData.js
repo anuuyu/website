@@ -55,6 +55,16 @@ const bookmarksData = [
     description: `A critical challenge for any ecommerce website is being discovered in Search. Acquiring customers and building a relationship with them is an important driver of business growth, and Google can help shoppers discover your site at each stage in the shopping journey.`,
     href: 'https://developers.google.com/search/docs/advanced/ecommerce/overview',
   },
+  {
+    title: 'My Wonderful HTML Email Workflow',
+    description: `A potent combination of MDX and MJML.`,
+    href: 'https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/',
+  },
+  {
+    title: 'Creating a Markdown Blog Powered by Next.js in Under an Hour',
+    description: `I’m pretty sure 99% of the developers out there just love markdown. It’s such a fantastic format to write in.`,
+    href: 'https://blog.openreplay.com/creating-a-markdown-blog-powered-by-next-js-in-under-an-hour',
+  },
 ]
 
 export default bookmarksData

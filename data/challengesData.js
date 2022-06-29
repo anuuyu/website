@@ -59,6 +59,12 @@ const challengesData = [
     imgSrc: '/static/images/page/challenges/acefrontend.svg',
     href: 'https://challenges.moderncss.dev/',
   },
+  {
+    title: 'Codewars - Achieve Mastery Through Challenge',
+    description: `Improve your development skills by training with your peers on code kata that continuously challenge and push your coding practice.`,
+    imgSrc: '/static/images/page/challenges/codewars.svg',
+    href: 'https://www.codewars.com/',
+  },
 ]
 
 export default challengesData
