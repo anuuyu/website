@@ -281,6 +281,12 @@ export const freeLearningResourcesData = [
     imgSrc: 'moderncss.png',
     href: 'https://basarat.gitbook.io/typescript/',
   },
+  {
+    title: 'Semrush Academy',
+    description: `Advance and inspire your marketing career.`,
+    imgSrc: 'semrush-academy.png',
+    href: 'https://www.semrush.com/academy/',
+  },
 ]
 
 export const premiumLearningResourcesData = [
