@@ -5,6 +5,6 @@ occupation: designer + developer
 ---
 
 Hi, i am yu.
-a designer and developer.
+a developer who design and love marketing.
 
 currently work with react ecosystem.
