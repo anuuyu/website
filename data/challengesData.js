@@ -65,6 +65,12 @@ const challengesData = [
     imgSrc: '/static/images/page/challenges/codewars.svg',
     href: 'https://www.codewars.com/',
   },
+  {
+    title: 'Learn to Code Blockchain DApps By Building Simple Games',
+    description: `CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to make smart contracts in Solidity by making your own crypto-collectibles game.`,
+    imgSrc: '/static/images/page/challenges/codewars.svg',
+    href: 'https://cryptozombies.io/',
+  },
 ]
 
 export default challengesData

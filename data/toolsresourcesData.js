@@ -62,6 +62,12 @@ export const resourcesData = [
     imgSrc: 'learnuidesign.svg',
     href: 'https://material.io/',
   },
+  {
+    title: 'Welcome to the RapidAPI Hub',
+    description: `Discover and connect to thousands of APIs.`,
+    imgSrc: 'learnuidesign.svg',
+    href: 'https://rapidapi.com/hub',
+  },
 ]
 
 export const freeLearningResourcesData = [
@@ -322,6 +328,18 @@ export const freeLearningResourcesData = [
     description: `Algorithms and data structures implemented in JavaScript with explanations and links to further readings.`,
     imgSrc: 'github.svg',
     href: 'https://github.com/trekhleb/javascript-algorithms',
+  },
+  {
+    title: 'SQL Bolt',
+    description: `Welcome to SQLBolt, a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.`,
+    imgSrc: 'github.svg',
+    href: 'https://sqlbolt.com/',
+  },
+  {
+    title: 'Learn GIT Branching',
+    description: `Interested in learning Git? Well you've come to the right place! "Learn Git Branching" is the most visual and interactive way to learn Git on the web; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way.`,
+    imgSrc: 'github.svg',
+    href: 'https://learngitbranching.js.org/',
   },
 ]
 
