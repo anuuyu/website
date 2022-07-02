@@ -341,6 +341,12 @@ export const freeLearningResourcesData = [
     imgSrc: 'github.svg',
     href: 'https://learngitbranching.js.org/',
   },
+  {
+    title: 'Defensive CSS',
+    description: `Practical CSS and design tips that helps in building future-proof user interfaces.`,
+    imgSrc: 'defensivecss.svg',
+    href: 'https://defensivecss.dev/',
+  },
 ]
 
 export const premiumLearningResourcesData = [
