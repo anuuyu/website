@@ -80,12 +80,6 @@ export const resourcesData = [
     imgSrc: 'openjsf.svg',
     href: 'https://openjsf.org/projects/',
   },
-  {
-    title: 'jsDocs.io ',
-    description: `jsDocs.io is an open source documentation host for Javascript and Typescript packages published on npm.`,
-    imgSrc: 'jsdocs.png',
-    href: 'https://www.jsdocs.io/',
-  },
 ]
 
 export const freeLearningResourcesData = [
