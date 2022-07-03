@@ -35,6 +35,12 @@ export const toolsData = [
     imgSrc: 'stylestage.png',
     href: 'https://stylestage.dev/',
   },
+  {
+    title: 'webhint',
+    description: `Use webhint to improve your website.`,
+    imgSrc: 'webhint.svg',
+    href: 'https://webhint.io/',
+  },
 ]
 
 export const resourcesData = [
@@ -67,6 +73,18 @@ export const resourcesData = [
     description: `Discover and connect to thousands of APIs.`,
     imgSrc: 'learnuidesign.svg',
     href: 'https://rapidapi.com/hub',
+  },
+  {
+    title: 'The OpenJS Foundation',
+    description: `The OpenJS Foundation hosts some of the most important projects in the JavaScript ecosystem.  As a neutral non-profit organization, our goal is to provide a home where projects can build and support a sustainable community of diverse contributors.`,
+    imgSrc: 'openjsf.svg',
+    href: 'https://openjsf.org/projects/',
+  },
+  {
+    title: 'jsDocs.io ',
+    description: `jsDocs.io is an open source documentation host for Javascript and Typescript packages published on npm.`,
+    imgSrc: 'jsdocs.png',
+    href: 'https://www.jsdocs.io/',
   },
 ]
 

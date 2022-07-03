@@ -70,6 +70,11 @@ const bookmarksData = [
     description: `Ranking in search results is not as complicated or mysterious as you’d think. In order to rank, a page must indicate its relevance and the website itself must be authoritative in the eyes of search engines.`,
     href: 'https://www.orbitmedia.com/blog/how-to-research-keywords-tips/',
   },
+  {
+    title: 'What is an SVG File?',
+    description: `SVG stands for scalable vector graphics. It's a web-friendly vector-based file format used to render two-dimensional images on the internet.`,
+    href: 'https://www.freecodecamp.org/news/what-is-an-svg-file/',
+  },
 ]
 
 export default bookmarksData
