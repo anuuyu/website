@@ -72,8 +72,13 @@ const bookmarksData = [
   },
   {
     title: 'What is an SVG File?',
-    description: `SVG stands for scalable vector graphics. It's a web-friendly vector-based file format used to render two-dimensional images on the internet.`,
+    description: `SVG stands for scalable vector graphics. It's a web-friendly vector-based file format used to render two-dimensional images on the internet .`,
     href: 'https://www.freecodecamp.org/news/what-is-an-svg-file/',
+  },
+  {
+    title: 'Typography principles by Obys Agency',
+    description: `Obys Agency shared a beautiful project featuring typography, UX, editorial design, and you name it. Why did they choose this topic? More complex work with typography is becoming popular in web and web design is becoming more like posters and graphic design. Obys agency is pleased to share with you some of their principles of working with typography that will help improve your experience.`,
+    href: 'https://abduzeedo.com/typography-principles-obys-agency',
   },
 ]
 
