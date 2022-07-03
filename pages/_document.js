@@ -20,8 +20,7 @@ class MyDocument extends Document {
           <link rel="manifest" href="/static/favicons/site.webmanifest" />
           <link rel="mask-icon" href="/static/favicons/safari-pinned-tab.svg" color="#5bbad5" />
           <meta name="msapplication-TileColor" content="#e7ede7" />
-          <meta name="theme-color" media="prefers-color-scheme: dark" content="#e7ede7" />{' '}
-          <meta name="theme-color" media="prefers-color-scheme: light" content="#030f03" />
+          <meta name="theme-color" content="#e7ede7" />
           <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
         </Head>
         <body className="bg-[#e7ede7] text-black antialiased dark:bg-[#030f03] dark:text-white">
