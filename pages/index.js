@@ -24,7 +24,8 @@ export default function Home({ posts }) {
             const { slug, title, summary, tags } = frontMatter
             return (
               <li key={slug} className="py-12">
-                <article>
+                <article className="relative rounded-bl-lg border-l-2 border-b-2 border-[#104911] pl-6 pb-6 dark:border-[#fdc500]">
+                  <span className="absolute bottom-0 left-0 block h-4 w-4 rounded-full bg-[#fdc500] dark:bg-[#104911]"></span>
                   <div className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0">
                     <div className="space-y-5 xl:col-span-3">
                       <div className="space-y-6">
