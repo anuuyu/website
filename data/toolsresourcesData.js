@@ -359,6 +359,12 @@ export const freeLearningResourcesData = [
     imgSrc: 'defensivecss.svg',
     href: 'https://defensivecss.dev/',
   },
+  {
+    title: 'JavaScript in 14 minutes',
+    description: `JavaScript in 14 minutes by Jeremy Thomas.`,
+    imgSrc: 'defensivecss.svg',
+    href: 'https://jgthms.com/javascript-in-14-minutes/',
+  },
 ]
 
 export const premiumLearningResourcesData = [
