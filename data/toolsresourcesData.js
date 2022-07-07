@@ -365,6 +365,12 @@ export const freeLearningResourcesData = [
     imgSrc: 'defensivecss.svg',
     href: 'https://jgthms.com/javascript-in-14-minutes/',
   },
+  {
+    title: 'MarkSheet',
+    description: `A free HTML and CSS tutorial.`,
+    imgSrc: 'defensivecss.svg',
+    href: 'https://marksheet.io/',
+  },
 ]
 
 export const premiumLearningResourcesData = [
