@@ -80,6 +80,45 @@ const bookmarksData = [
     description: `Obys Agency shared a beautiful project featuring typography, UX, editorial design, and you name it. Why did they choose this topic? More complex work with typography is becoming popular in web and web design is becoming more like posters and graphic design. Obys agency is pleased to share with you some of their principles of working with typography that will help improve your experience.`,
     href: 'https://abduzeedo.com/typography-principles-obys-agency',
   },
+  {
+    title: '15 Psychological Studies That Will Boost Your Social Media Marketing',
+    description: `How does your audience decide what it wants to click, share, favorite, and purchase?
+
+    Understanding a bit of behavioral psychology can go a long ways toward a better understanding of your audience and why they do the things they do on social media and on your website.`,
+    href: 'https://buffer.com/resources/psychological-studies-marketing/',
+  },
+  {
+    title: '7 Social Media Psychology Studies That Will Make Your Marketing Smarter',
+    description: `One of my favorite things about social media is that it’s still such a young and new form of communication. It feels too early to take anything as a given, so we’re all experimenting, testing and learning together.`,
+    href: 'https://buffer.com/resources/social-media-psychology-studies-smarter-marketing/',
+  },
+  {
+    title: 'The definition of marketing psychology and how to use it',
+    description: `It’s safe to assume that in order for a marketer to successfully do their job, they first need to understand who the customer is, what they want, and what drives them to make a purchase. If it sounds a little like psychology, that’s because these strategies are based on psychological theories, and are commonly referred to as marketing psychology.`,
+    href: 'https://www.canva.com/learn/definition-marketing-psychology-use/',
+  },
+  {
+    title: '46 Psychological Marketing Examples for Smarter Marketing',
+    description: `Your extensive guide to the best psychological principles we've seen is finally here.`,
+    href: 'https://blog.crobox.com/article/psychological-marketing-examples',
+  },
+  {
+    title: 'Marketing Psychology: The Art Of Influencing Your Customers',
+    description: `Each person who interacts with your brand goes through a journey. Understanding the psychological factors impacting consumer behavior ensures your marketing is successful.`,
+    href: 'https://marketsplash.com/marketing-psychology/',
+  },
+  {
+    title: 'Marketing Psychology: 21 Key Principles of Human Behavior',
+    description: `Smart marketers incorporate one or more psychological principles into marketing campaigns and marketing strategy, content marketing, and sales strategy.
+
+    Here’s everything you need to know about the important principles and theories that can supercharge your marketing and influence people to buy your products or services.`,
+    href: 'https://www.crowdspring.com/marketing-psychology/',
+  },
+  {
+    title: 'Marketing Psychology: 10 Revealing Principles of Human Behavior',
+    description: `One key part of being a great marketer is understanding how (and why) people think and act the way they do. It's much harder to create compelling content marketing, for example, if you don’t know why it would be compelling to your audience in the first place.`,
+    href: 'https://blog.hubspot.com/marketing/psychology-marketers-revealing-principles-human-behavior/',
+  },
 ]
 
 export default bookmarksData
