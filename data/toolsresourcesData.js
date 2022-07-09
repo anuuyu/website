@@ -371,6 +371,12 @@ export const freeLearningResourcesData = [
     imgSrc: 'defensivecss.svg',
     href: 'https://marksheet.io/',
   },
+  {
+    title: 'Search Engine Optimization',
+    description: `A Beginner's Guide from Ahrefs.`,
+    imgSrc: 'ahrefs.svg',
+    href: 'https://ahrefs.com/seo',
+  },
 ]
 
 export const premiumLearningResourcesData = [

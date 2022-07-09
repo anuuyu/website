@@ -119,6 +119,11 @@ const bookmarksData = [
     description: `One key part of being a great marketer is understanding how (and why) people think and act the way they do. It's much harder to create compelling content marketing, for example, if you don’t know why it would be compelling to your audience in the first place.`,
     href: 'https://blog.hubspot.com/marketing/psychology-marketers-revealing-principles-human-behavior/',
   },
+  {
+    title: 'How We Used a Video Course to Promote Ahrefs (And Got 500K+ Views)',
+    description: `Creating and selling educational courses can be a lucrative business. But if you already have a product to sell, you can actually use courses as a marketing tool.`,
+    href: 'https://ahrefs.com/blog/using-courses-for-marketing/',
+  },
 ]
 
 export default bookmarksData
