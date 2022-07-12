@@ -377,6 +377,12 @@ export const freeLearningResourcesData = [
     imgSrc: 'ahrefs.svg',
     href: 'https://ahrefs.com/seo',
   },
+  {
+    title: '13 Best Copywriting Courses',
+    description: `The best courses to become an effective Copywriter in weeks and getting the best value for your money.`,
+    imgSrc: 'ahrefs.svg',
+    href: 'https://www.classcentral.com/report/best-copywriting-courses/',
+  },
 ]
 
 export const premiumLearningResourcesData = [
