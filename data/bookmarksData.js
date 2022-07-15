@@ -124,6 +124,11 @@ const bookmarksData = [
     description: `Creating and selling educational courses can be a lucrative business. But if you already have a product to sell, you can actually use courses as a marketing tool.`,
     href: 'https://ahrefs.com/blog/using-courses-for-marketing/',
   },
+  {
+    title: 'The Definitive Guide to Google Business Profile Optimization',
+    description: `What you need to know to optimize your Google Business Profile (formerly Google My Business listing).`,
+    href: 'https://whitespark.ca/google-business-profile-guide/',
+  },
 ]
 
 export default bookmarksData
