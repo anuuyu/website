@@ -470,4 +470,10 @@ export const premiumLearningResourcesData = [
     imgSrc: 'designcodeio.svg',
     href: 'https://designcode.io/',
   },
+  {
+    title: 'Marketing Strategy: SEO Content Writing',
+    description: `There's an art to writing content that boosts your website's rankings. In this course, SEO expert and marketing consultant Kristina Azarenko teaches you how to use powerful SEO techniques to take your content writing to the next level and see your site’s traffic grow. Kristina covers how to identify your target audience and buyer journey and how to find the keywords for your content with the user intent in mind. This helps you be in front of the right people at the right time, when they are searching for your services on Google. Kristina walks you through producing content blocks, structuring your content with headings, and writing optimized meta tags so that your pages will rank high in the search results. She explains how to optimize images for relevancy and loading speed, use internal linking in your content, and extend the impact of your content optimization. Plus, Kristina shows you how to apply the techniques in this course to build and implement a strong content writing plan.`,
+    imgSrc: 'designcodeio.svg',
+    href: 'https://www.linkedin.com/learning/marketing-strategy-seo-content-writing',
+  },
 ]
