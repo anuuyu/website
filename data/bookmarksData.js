@@ -129,6 +129,11 @@ const bookmarksData = [
     description: `What you need to know to optimize your Google Business Profile (formerly Google My Business listing).`,
     href: 'https://whitespark.ca/google-business-profile-guide/',
   },
+  {
+    title: 'How To Become A Copywriter',
+    description: `Copywriting is one of those rare skill sets that is both highly accessible AND highly lucrative.`,
+    href: 'https://jacobmcmillen.com/how-to-become-a-copywriter/',
+  },
 ]
 
 export default bookmarksData
