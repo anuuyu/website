@@ -149,6 +149,11 @@ const bookmarksData = [
     description: `Essential JavaScript for React.`,
     href: 'https://nextjs.org/learn/foundations/from-javascript-to-react/essential-javascript-react',
   },
+  {
+    title: 'How to Talk about Language Learning',
+    description: `One of the most difficult parts of learning a new language, especially if you’ve never done so before, is having a good idea of just what exactly it is that you’re in for. Here we’ll take a look at the various stages of language learning and how many European language teachers talk about these stages.`,
+    href: 'https://blog.chatterbug.com/en/how-to-talk-about-language-learning/',
+  },
 ]
 
 export default bookmarksData

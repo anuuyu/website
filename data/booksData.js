@@ -13,6 +13,13 @@ const booksData = [
     author: 'Flavio Copes',
     href: 'https://thevalleyofcode.com/',
   },
+  {
+    title: 'Pro Git',
+    description: `The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.`,
+    imgSrc: 'progit2.png',
+    author: 'Scott Chacon',
+    href: 'https://book.git-scm.com/book/en/v2',
+  },
 ]
 
 export default booksData
