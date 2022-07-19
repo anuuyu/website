@@ -401,6 +401,12 @@ export const freeLearningResourcesData = [
     imgSrc: 'ahrefs.svg',
     href: 'https://masteringnextjs.com/',
   },
+  {
+    title: 'SEO learning center',
+    description: `FREE SEO COURSES, VIDEOS, & PRESENTATIONS.`,
+    imgSrc: 'ahrefs.svg',
+    href: 'https://hallanalysis.com/learn-seo/',
+  },
 ]
 
 export const premiumLearningResourcesData = [
