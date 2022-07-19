@@ -41,6 +41,12 @@ export const toolsData = [
     imgSrc: 'webhint.svg',
     href: 'https://webhint.io/',
   },
+  {
+    title: 'GOTCH seo',
+    description: `SEO That Actually Works.`,
+    imgSrc: 'webhint.svg',
+    href: 'https://www.gotchseo.com/',
+  },
 ]
 
 export const resourcesData = [
@@ -382,6 +388,18 @@ export const freeLearningResourcesData = [
     description: `The best courses to become an effective Copywriter in weeks and getting the best value for your money.`,
     imgSrc: 'ahrefs.svg',
     href: 'https://www.classcentral.com/report/best-copywriting-courses/',
+  },
+  {
+    title: 'Start developing websiteslike it"s 2025.',
+    description: `Build and deploy a modern SaaS application using the most popular open-source software.`,
+    imgSrc: 'ahrefs.svg',
+    href: 'https://react2025.com/',
+  },
+  {
+    title: 'Mastering Next.js',
+    description: `Mastering Next.js.`,
+    imgSrc: 'ahrefs.svg',
+    href: 'https://masteringnextjs.com/',
   },
 ]
 

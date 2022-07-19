@@ -134,6 +134,21 @@ const bookmarksData = [
     description: `Copywriting is one of those rare skill sets that is both highly accessible AND highly lucrative.`,
     href: 'https://jacobmcmillen.com/how-to-become-a-copywriter/',
   },
+  {
+    title: 'Top JavaScript Concepts to Know Before Learning React',
+    description: `If you want to learn React –or any JavaScript framework – you'll first need to understand the fundamental JavaScript methods and concepts.`,
+    href: 'https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/',
+  },
+  {
+    title: 'The JavaScript Skills You Need For React (+ Practical Examples)React',
+    description: `One of the most important things to understand about React is that it is fundamentally JavaScript. This means that the better you are at JavaScript, the more successful you will be with React.`,
+    href: 'https://www.freecodecamp.org/news/javascript-skills-you-need-for-react-practical-examples/',
+  },
+  {
+    title: 'From JavaScript to React',
+    description: `Essential JavaScript for React.`,
+    href: 'https://nextjs.org/learn/foundations/from-javascript-to-react/essential-javascript-react',
+  },
 ]
 
 export default bookmarksData
