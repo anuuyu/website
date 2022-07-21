@@ -47,6 +47,18 @@ export const toolsData = [
     imgSrc: 'webhint.svg',
     href: 'https://www.gotchseo.com/',
   },
+  {
+    title: 'TOOOLS design',
+    description: `Discover highly useful Design Resources & Tools.`,
+    imgSrc: 'webhint.svg',
+    href: 'https://www.toools.design/',
+  },
+  {
+    title: 'designjunction',
+    description: `Quality Free Resources for Designers by Designers.`,
+    imgSrc: 'webhint.svg',
+    href: 'https://designjunction.xyz/',
+  },
 ]
 
 export const resourcesData = [
@@ -406,6 +418,12 @@ export const freeLearningResourcesData = [
     description: `FREE SEO COURSES, VIDEOS, & PRESENTATIONS.`,
     imgSrc: 'ahrefs.svg',
     href: 'https://hallanalysis.com/learn-seo/',
+  },
+  {
+    title: 'java5cript',
+    description: `Free JavaScript Resources.`,
+    imgSrc: 'ahrefs.svg',
+    href: 'https://www.java5cript.com/',
   },
 ]
 
