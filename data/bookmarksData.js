@@ -688,6 +688,12 @@ export const freeLearningResourcesData = [
     imgSrc: 'ahrefs.svg',
     href: 'https://upmostly.com/',
   },
+  {
+    title: 'THE ODIN PROJECT',
+    description: `Your Career in Web Development Starts Here.`,
+    imgSrc: 'theodinproject.svg',
+    href: 'https://www.theodinproject.com/',
+  },
 ]
 
 export const premiumLearningResourcesData = [
