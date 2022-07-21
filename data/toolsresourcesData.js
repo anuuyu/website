@@ -425,6 +425,12 @@ export const freeLearningResourcesData = [
     imgSrc: 'ahrefs.svg',
     href: 'https://www.java5cript.com/',
   },
+  {
+    title: 'upmostly',
+    description: `Upmostly brings you original React and JavaScript tutorials every week.`,
+    imgSrc: 'ahrefs.svg',
+    href: 'https://upmostly.com/',
+  },
 ]
 
 export const premiumLearningResourcesData = [
