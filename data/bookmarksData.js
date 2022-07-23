@@ -109,9 +109,7 @@ export const bookmarksData = [
   },
   {
     title: 'Marketing Psychology: 21 Key Principles of Human Behavior',
-    description: `Smart marketers incorporate one or more psychological principles into marketing campaigns and marketing strategy, content marketing, and sales strategy.
-
-    Here’s everything you need to know about the important principles and theories that can supercharge your marketing and influence people to buy your products or services.`,
+    description: `Smart marketers incorporate one or more psychological principles into marketing campaigns and marketing strategy, content marketing, and sales strategy.`,
     href: 'https://www.crowdspring.com/marketing-psychology/',
   },
   {
@@ -153,6 +151,26 @@ export const bookmarksData = [
     title: 'How to Talk about Language Learning',
     description: `One of the most difficult parts of learning a new language, especially if you’ve never done so before, is having a good idea of just what exactly it is that you’re in for. Here we’ll take a look at the various stages of language learning and how many European language teachers talk about these stages.`,
     href: 'https://blog.chatterbug.com/en/how-to-talk-about-language-learning/',
+  },
+  {
+    title: 'How to keep your Lighthouse score high in Next.js applications - a checklist',
+    description: `Let’s talk about one of the most useful technical SEO performance tools that can be used to test web pages. It’s automated, and measures performance, accessibility, and SEO. What’s more, it’s open-source and free to use – and can be used to test progressive web applications, which is what I’d like to concentrate on in this article. Let’s run through a Lighthouse score success checklist together.`,
+    href: 'https://tsh.io/blog/how-to-keep-your-lighthouse-score-high-in-next-js-applications-a-checklist/',
+  },
+  {
+    title: 'How To Maintain A Large Next.js Application',
+    description: `In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.`,
+    href: 'https://www.smashingmagazine.com/2021/11/maintain-large-nextjs-application/',
+  },
+  {
+    title: 'Front-End Performance Checklist 2021 (PDF, Apple Pages, MS Word)',
+    description: `An annual front-end performance checklist.`,
+    href: 'https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/',
+  },
+  {
+    title: 'Developer Tips',
+    description: `dev tips by umaar .`,
+    href: 'https://umaar.com/dev-tips/',
   },
 ]
 
@@ -316,6 +334,12 @@ export const toolsData = [
     imgSrc: 'webhint.svg',
     href: 'https://designjunction.xyz/',
   },
+  {
+    title: 'frontendchecklist',
+    description: `The Front-End Checklist.`,
+    imgSrc: 'webhint.svg',
+    href: 'https://frontendchecklist.io/',
+  },
 ]
 
 export const resourcesData = [
@@ -358,6 +382,12 @@ export const resourcesData = [
 ]
 
 export const freeLearningResourcesData = [
+  {
+    title: 'Chrome DevTools',
+    description: `Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser.`,
+    imgSrc: 'thumbnail.svg',
+    href: 'https://developer.chrome.com/docs/devtools/',
+  },
   {
     title: 'NODESCHOOL',
     description: `Open source workshops that teach web software skills. Do them on your own or at a workshop nearby.`,
