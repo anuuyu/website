@@ -195,7 +195,7 @@ export const booksData = [
   {
     title: 'The Valley of code',
     description: `The Valley of code by Flavio Copes.`,
-    imgSrc: 'book-next.png',
+    imgSrc: 'thevalleyofcode.png',
     author: 'Flavio Copes',
     href: 'https://thevalleyofcode.com/',
   },
@@ -205,6 +205,13 @@ export const booksData = [
     imgSrc: 'progit2.png',
     author: 'Scott Chacon',
     href: 'https://book.git-scm.com/book/en/v2',
+  },
+  {
+    title: 'The Cooding Career Handbook',
+    description: `The Missing Manual For Junior To Senior Devs.`,
+    imgSrc: 'the-cooding-career-handbook.jpg',
+    author: 'shawn swyx wang',
+    href: 'https://learninpublic.org/',
   },
 ]
 
