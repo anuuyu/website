@@ -1,5 +1,10 @@
 export const bookmarksData = [
   {
+    title: 'Learn In Public',
+    description: `The fastest way to learn.`,
+    href: 'https://www.swyx.io/learn-in-public/',
+  },
+  {
     title:
       'Improved dark mode default styling with the color-scheme CSS property and the corresponding meta tag',
     description: `The color-scheme CSS property and the corresponding meta tag allow developers to opt their pages in to the theme-specific defaults of the user agent stylesheet.`,
