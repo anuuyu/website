@@ -363,6 +363,18 @@ export const toolsData = [
     imgSrc: 'webhint.svg',
     href: 'https://mangools.com/',
   },
+  {
+    title: 'HTML Color Codes',
+    description: `Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names.`,
+    imgSrc: 'webhint.svg',
+    href: 'https://htmlcolorcodes.com/',
+  },
+  {
+    title: 'make tints and shades',
+    description: `Tint & Shade Generator.`,
+    imgSrc: 'webhint.svg',
+    href: 'https://maketintsandshades.com/',
+  },
 ]
 
 export const resourcesData = [
