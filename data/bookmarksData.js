@@ -357,6 +357,12 @@ export const toolsData = [
     imgSrc: 'webhint.svg',
     href: 'https://frontendchecklist.io/',
   },
+  {
+    title: 'mangools',
+    description: `Juicy SEO tools you will love.`,
+    imgSrc: 'webhint.svg',
+    href: 'https://mangools.com/',
+  },
 ]
 
 export const resourcesData = [
