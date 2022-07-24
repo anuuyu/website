@@ -172,6 +172,11 @@ export const bookmarksData = [
     description: `dev tips by umaar .`,
     href: 'https://umaar.com/dev-tips/',
   },
+  {
+    title: 'The Startup Marketing Checklist',
+    description: `This marketing checklist is a comprehensive, chronologically ordered list of marketing tactics and ideas that you can try with your startup.`,
+    href: 'https://draft.dev/learn/marketing-checklist',
+  },
 ]
 
 export const booksData = [
