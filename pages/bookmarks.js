@@ -1,14 +1,5 @@
 import siteMetadata from '@/data/siteMetadata'
-import {
-  bookmarksData,
-  booksData,
-  challengesData,
-  toolsData,
-  resourcesData,
-  freeLearningResourcesData,
-  premiumLearningResourcesData,
-  twlinksData,
-} from '@/data/bookmarksData'
+import * as bmData from '@/data/bookmarksData'
 import { BookmarksCard, BooksCard, CardsPage, ToolsPage, Card } from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 import ScrollTop from '@/components/ScrollTop'
@@ -32,7 +23,7 @@ export default function Bookmarks() {
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
-            {bookmarksData.map((d) => (
+            {bmData.bookmarksData.map((d) => (
               <BookmarksCard
                 key={d.title}
                 title={d.title}
@@ -50,7 +41,7 @@ export default function Bookmarks() {
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
-            {booksData.map((d) => (
+            {bmData.booksData.map((d) => (
               <BooksCard
                 key={d.title}
                 title={d.title}
@@ -69,7 +60,7 @@ export default function Bookmarks() {
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
-            {challengesData.map((d) => (
+            {bmData.challengesData.map((d) => (
               <CardsPage
                 key={d.title}
                 title={d.title}
@@ -87,7 +78,7 @@ export default function Bookmarks() {
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
-            {toolsData.map((d) => (
+            {bmData.toolsData.map((d) => (
               <ToolsPage
                 key={d.title}
                 title={d.title}
@@ -105,7 +96,7 @@ export default function Bookmarks() {
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
-            {resourcesData.map((d) => (
+            {bmData.resourcesData.map((d) => (
               <ToolsPage
                 key={d.title}
                 title={d.title}
@@ -123,7 +114,7 @@ export default function Bookmarks() {
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
-            {freeLearningResourcesData.map((d) => (
+            {bmData.freeLearningResourcesData.map((d) => (
               <ToolsPage
                 key={d.title}
                 title={d.title}
@@ -141,7 +132,7 @@ export default function Bookmarks() {
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
-            {premiumLearningResourcesData.map((d) => (
+            {bmData.premiumLearningResourcesData.map((d) => (
               <ToolsPage
                 key={d.title}
                 title={d.title}
@@ -159,7 +150,7 @@ export default function Bookmarks() {
         </div>
         <div className="container py-12">
           <div className="-m-4 flex flex-wrap">
-            {twlinksData.map((d) => (
+            {bmData.twlinksData.map((d) => (
               <Card
                 key={d.title}
                 title={d.title}
