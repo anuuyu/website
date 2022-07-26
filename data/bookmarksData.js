@@ -5,8 +5,13 @@ export const bookmarksData = [
     href: 'https://www.swyx.io/learn-in-public/',
   },
   {
+    title: 'The Responsive Website Font Size Guidelines',
+    description: `mobile desktop website font size guidelines.`,
+    href: 'https://www.learnui.design/blog/mobile-desktop-website-font-size-guidelines.html',
+  },
+  {
     title:
-      'Improved dark mode default styling with the color-scheme CSS property and the corresponding meta tag',
+      'Improved dark mode default styling with the color-scheme CSS property and the corresponding meta tag.',
     description: `The color-scheme CSS property and the corresponding meta tag allow developers to opt their pages in to the theme-specific defaults of the user agent stylesheet.`,
     href: 'https://web.dev/color-scheme/',
   },
